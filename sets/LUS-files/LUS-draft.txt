@@ -1,0 +1,3230 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Seeker of Whims",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Cheerful Merchant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Firelight Warden",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Dozing Mount",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Rabbit Beast",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Festival Wanderers",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Azra Citizen",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Harness Sunlight",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Territorial Verdict",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Stand Stalwart",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Veiled Watcher",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Nightmare",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Thought Hopper",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dream Rabbit",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Wisher of Wings",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Dreamscape Stag",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Dream Elk",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Flight of Skywhales",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Drift Off",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Mind Whirl",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Dreamscape's Boon",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Harness Winds",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Tormented Bookkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Nightmare",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Hopestalker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Void Hunters",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Nightmare Dog",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Pigbat",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bat Boar",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Lakeside Revenant",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Psyche Syphoner",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Foolish Mistake",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Showboat",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Shadow of the Valley",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Harness Shadow",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Sunwisp Knight",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Lightning Bottler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Beast Wizard",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Extravagant Seer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Mindblast Mage",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Eclipse Apparition",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Nightmare",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Infernal Trumpeter",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Nightmare",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Spark of Inspiration",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Creative Partnership",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Surge of Confidence",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Head in the Clouds",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Harness Flame",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Grandgrowth Keeper",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Playful Lotus-Eater",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fox",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Sureshot",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Bloom Terror",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Nightmare",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Branchback Bear",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Plant Bear",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Peripheral Hulk",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dream Beast",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Fantastical Ferocity",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Harness Nature",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Artificial Dreamer",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct Mystic",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Epiphany",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Creature — Dream Nightmare Incarnation",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Expert Dreamcatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Sunstone Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Dream Cat Bird",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Symmetry Cultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Visual Learner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Lucid Dreams",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Opulent Blademaster",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Azra Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Ornithophobia",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Nightmare Bird",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Memory Sifter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Forget",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Fears Realized",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Molten Dreamhunter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Nightmare Cat",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Ingenious Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Astraphobia",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Reckless Challenge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Druid's Hand",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dream",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Might Realizer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Lotus-Eye Tiger",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Distract",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Weave Your Legacy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Descend into Madness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Live Life on a Whim",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Cloak in Wishes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Crystalline Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Uncertainty",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Creature — Dream Nightmare Incarnation",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Duskwrought Obelisk",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Destiny Chaser",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Serenity",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dream Incarnation",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Illusions of Choice",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dream Illusion",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Discovery",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Dream Incarnation",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Perished Thoughts",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Desire",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Nightmare Incarnation",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Baroness of Broken Dreams",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Festival Lights",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Faceless Forging",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Intrusive Thought",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Nightmare",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Recklessness",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Nightmare Incarnation",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Everflare Imagi",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Patience",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dream Incarnation",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Show the Ropes",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Cloudsea Traveler",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{U}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Haunted Traveler",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Azra Wizard",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Siban, Wish-Crowned",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Bear Elk",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Dreamcatcher Squad",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Kadha, Fear Glutton",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Nightmare",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Jubilant Sprinter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Wildsight Imagi",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Masterpiece Hellkite",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Dragon Construct",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Mavi, Living Memory",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Dream Spirit",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Kyrie, Fear's Right Hand",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Nightmare",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Ana, Lantern Augur",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Azra Mystic",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Estol, Ousted Nightlord",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Nightmare Dragon",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Worldsoul Bond",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Crowded Mind",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Infinity Blossoming",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Memory of Heroism",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Memory of Tranquility",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Memory of Power",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Memory of Rage",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Memory of Flourishing",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Dreamsun's Attendants",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Dream",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Dive Into Dream",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Fieldbound Explorer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Mouse Scout",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Sunglyph Eagle",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Wishborn Amalgam",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dream Elk Fish",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Contemplative Ascetic",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Destabilize",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Discover the Possibilities",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Entrancing Vision",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Melancholy Melodicist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Mouse Bard",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Sapphire Imagi",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Stifle Creativity",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Torrent Shaper",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Maze of Thought",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Whimsical Drake",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dream Drake",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Ashiok's Devoted",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Nightmare",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Nightmare Winds",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Extract the Truth",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Farwoods Marauder",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Resilient Ambition",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Revoke Reality",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Wounded Pride",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Valley Tormentor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Nightmare",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Bravado",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Campfire Elemental",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Daring Dreamblade",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Release Burdens",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Storm Strider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Nightmare Elemental",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Rule by Fear",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Crushing Canopy",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Emerald Dryad",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Enhance Abilities",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Enlist the Ecology",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Greenhouse Mosshorn",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Rhino",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Growth Mindset",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Strength of Memory",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Conjurer's Steed",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dream Elk",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Sunstone Harvester",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Tara's Sentry",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Table of Trinkets",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Sunstone Pedestal",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Arcane Compass",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Commune with Opportunity",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Decorated Dreamblade",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Cloudstrider Herd",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Dream Horse",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Trappings of the Mind",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Creativity's Touch",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Beckoned Behemoth",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Watcher in the Woods",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Nightmare Elemental",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Forefront Thought",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Dream",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Furious Wildshaper",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Sightless Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Nightmare Bat",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Hellfire Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Nightmare",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Blademaster Imagi",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Soulful Artist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Thunderclaw Apex",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Elemental Cat",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Dynamic Duo",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Human Wizard Warrior",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Rampaging Featherbear",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bird Bear",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Farwoods Alpha",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Ape",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Leap From the Page",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Complimentary Opposites",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Valorous Stance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Onslaught of Whimsy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Dreamcatcher's Confidence",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Ashiok, Fear Made Manifest",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Ashiok",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Tara Fellise",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Planeswalker — Tara",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Aki, Wayward Son",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Planeswalker — Aki",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Active Imagination",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Shoot for the Stars",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Beyondscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Farseer Fox",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Dream Fox",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Entrancing Aspirant",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Bard",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Vas, Renegade Nightmare",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Nightmare Mystic",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Merciless Resolve",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Beachside Companions",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dream Otter Shark",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Imaginative Rascals",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Fall From Grace",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Hopeborn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dream",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Tangleneck Stork",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Dream Bird Hydra",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Valor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Incarnation",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Clouded Leopard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Cat",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Dreamscape Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dream Cat Lizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Diversion Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Azra Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Going Swimmingly",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Isolation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Incarnation",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Rastian's Teachings",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Supreme Will",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Wisp of Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Dream Elk",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Ashiok's Ascension",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Emotionless Dreamblade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Griefborn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Hardship",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Incarnation",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Mortality Connoisseur",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Superiority Complex",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Anger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Incarnation",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Analyst",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Mindscorcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Nightmare",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Nightmarish Intimidator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Nightmare",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Overwhelming Odds",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Squeaking Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Dragon Mouse",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Sundering Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Aegis of Resolve",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Brawn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Incarnation",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Farwoods Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Archer",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Greenhouse's Encouragement",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Kindly Caretaker",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Sunstone Wielder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Crack the Sun",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Quill of Whims",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Let Imagination Soar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Take Fear's Oath",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Chase Your Dreams",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Find Wonder Everywhere",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Leaping Imagi",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Wrack the Brain",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Desolate Crossroads",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Fleeting Cloudscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Sunset Vista",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Thawing Underpass",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Unstable Terrain",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Gilded Automaton",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Sunstone Amulet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Terramorphic Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Aspect of the Recruiter",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Aspect of the Mage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Aspect of the Wurm",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Aspect of the Pyromancer",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Aspect of the Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Amara's Mastery",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Ophys' Mastery",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Ilias's Mastery",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Maraye's Mastery",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Korvik's Mastery",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Cloudbreather",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Whale",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Ori, Collective Aspiration",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Dream",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Selective Memory",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Mental Breakdown",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Subliminal Messaging",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Ashiok's Machinations",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Farwoods Scrounger",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Sunstone Elemental",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Wildest Dreams",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Vision of Grandeur",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dream",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Aolis, Gilded Master",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Ashen, Farwoods Warden",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Rastian, Dreamblade Captain",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Cat Warrior",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Floria, Unswaying Optimist",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Quoro, the Worldwish",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Dream Dragon",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Conscripted Concience",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "The Possibility Capsule",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Amara, Lucid of Order",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Elder Human Wizard",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Ophys, Lucid of Understanding",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Elder Human Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Ilias, Lucid of Ambition",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Elder Elf Wizard",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Maraye, Lucid of Passion",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Elder Human Wizard",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Korvik, Lucid of Strength",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Elder Human Druid",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Creativity",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Valorbound Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Distinctive Landmark",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Horizon Canopy",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Dusklit Spire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Seaview Cliffs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Rugged Valley",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Obsidian Falls",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Responsibility",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Creature — Dream Nightmare Incarnation",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Meet the Dawn",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Blank Slate",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Griffin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Griffin",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Nightmare",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Nightmare",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Soul",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Incarnation",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Dream",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dream",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Coward",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Coward",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Fish Nightmare",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Fish Nightmare",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Warren Warleader",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Cat Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cat Beast",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Illusion",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Wicked Role",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Role",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Citizen",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Rhino Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rhino Warrior",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Citizen",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Human Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://modernterrain.github.io/sets/LUS-files/img/294.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Destiny Chaser
+	5 Serenity
+	5 Illusions of Choice
+	5 Discovery
+	5 Perished Thoughts
+	5 Desire
+	5 Baroness of Broken Dreams
+	5 Festival Lights
+	5 Faceless Forging
+	5 Intrusive Thought
+	5 Recklessness
+	5 Everflare Imagi
+	5 Patience
+	5 Show the Ropes
+	5 Cloudsea Traveler
+	5 Haunted Traveler
+	5 Siban, Wish-Crowned
+	5 Dreamcatcher Squad
+	5 Kadha, Fear Glutton
+	5 Jubilant Sprinter
+	5 Wildsight Imagi
+	5 Masterpiece Hellkite
+	5 Mavi, Living Memory
+	5 Kyrie, Fear's Right Hand
+	5 Ana, Lantern Augur
+	5 Estol, Ousted Nightlord
+	5 Worldsoul Bond
+	5 Crowded Mind
+	5 Infinity Blossoming
+	5 Memory of Heroism
+	5 Memory of Tranquility
+	5 Memory of Power
+	5 Memory of Rage
+	5 Memory of Flourishing
+	5 Leap From the Page
+	5 Complimentary Opposites
+	5 Ashiok, Fear Made Manifest
+	5 Tara Fellise
+	5 Aki, Wayward Son
+	5 Vas, Renegade Nightmare
+	5 Crack the Sun
+	5 Wrack the Brain
+	5 Aspect of the Recruiter
+	5 Aspect of the Mage
+	5 Aspect of the Wurm
+	5 Aspect of the Pyromancer
+	5 Aspect of the Behemoth
+	5 Amara's Mastery
+	5 Ophys' Mastery
+	5 Ilias's Mastery
+	5 Maraye's Mastery
+	5 Korvik's Mastery
+	5 Cloudbreather
+	5 Ori, Collective Aspiration
+	5 Selective Memory
+	5 Mental Breakdown
+	5 Subliminal Messaging
+	5 Ashiok's Machinations
+	5 Farwoods Scrounger
+	5 Sunstone Elemental
+	5 Wildest Dreams
+	5 Vision of Grandeur
+	5 Aolis, Gilded Master
+	5 Ashen, Farwoods Warden
+	5 Rastian, Dreamblade Captain
+	5 Floria, Unswaying Optimist
+	5 Quoro, the Worldwish
+	5 Conscripted Concience
+	5 The Possibility Capsule
+	5 Amara, Lucid of Order
+	5 Ophys, Lucid of Understanding
+	5 Ilias, Lucid of Ambition
+	5 Maraye, Lucid of Passion
+	5 Korvik, Lucid of Strength
+	5 Creativity
+	5 Valorbound Phoenix
+	5 Distinctive Landmark
+	5 Horizon Canopy
+	5 Dusklit Spire
+	5 Seaview Cliffs
+	5 Rugged Valley
+	5 Obsidian Falls
+	5 Responsibility
+	5 Meet the Dawn
+	5 Blank Slate
+[uncommon(3)]
+	5 Tormented Bookkeeper
+	5 Expert Dreamcatcher
+	5 Sunstone Guardian
+	5 Symmetry Cultivator
+	5 Visual Learner
+	5 Lucid Dreams
+	5 Ornithophobia
+	5 Memory Sifter
+	5 Forget
+	5 Fears Realized
+	5 Molten Dreamhunter
+	5 Ingenious Guide
+	5 Astraphobia
+	5 Reckless Challenge
+	5 Druid's Hand
+	5 Might Realizer
+	5 Lotus-Eye Tiger
+	5 Distract
+	5 Weave Your Legacy
+	5 Descend into Madness
+	5 Live Life on a Whim
+	5 Cloak in Wishes
+	5 Crystalline Guard
+	5 Uncertainty
+	5 Duskwrought Obelisk
+	5 Beckoned Behemoth
+	5 Watcher in the Woods
+	5 Forefront Thought
+	5 Furious Wildshaper
+	5 Sightless Stalker
+	5 Hellfire Enforcer
+	5 Blademaster Imagi
+	5 Soulful Artist
+	5 Thunderclaw Apex
+	5 Dynamic Duo
+	5 Rampaging Featherbear
+	5 Valorous Stance
+	5 Onslaught of Whimsy
+	5 Active Imagination
+	5 Beyondscape
+	5 Beachside Companions
+	5 Imaginative Rascals
+	5 Fall From Grace
+	5 Hopeborn
+	5 Tangleneck Stork
+	5 Valor
+	5 Clouded Leopard
+	5 Dreamscape Guardian
+	5 Diversion Adept
+	5 Going Swimmingly
+	5 Isolation
+	5 Rastian's Teachings
+	5 Supreme Will
+	5 Wisp of Memory
+	5 Ashiok's Ascension
+	5 Emotionless Dreamblade
+	5 Griefborn
+	5 Hardship
+	5 Mortality Connoisseur
+	5 Superiority Complex
+	5 Anger
+	5 Brilliant Analyst
+	5 Mindscorcher
+	5 Nightmarish Intimidator
+	5 Overwhelming Odds
+	5 Squeaking Tyrant
+	5 Sundering Ritual
+	5 Aegis of Resolve
+	5 Brawn
+	5 Farwoods Champion
+	5 Greenhouse's Encouragement
+	5 Kindly Caretaker
+	5 Sunstone Wielder
+	5 Quill of Whims
+	5 Let Imagination Soar
+	5 Take Fear's Oath
+	5 Chase Your Dreams
+	5 Find Wonder Everywhere
+	5 Leaping Imagi
+	5 Desolate Crossroads
+	5 Fleeting Cloudscape
+	5 Sunset Vista
+	5 Thawing Underpass
+	5 Unstable Terrain
+	5 Gilded Automaton
+	5 Sunstone Amulet
+[common(10)]
+	5 Seeker of Whims
+	5 Cheerful Merchant
+	5 Firelight Warden
+	5 Dozing Mount
+	5 Festival Wanderers
+	5 Harness Sunlight
+	5 Territorial Verdict
+	5 Stand Stalwart
+	5 Veiled Watcher
+	5 Thought Hopper
+	5 Wisher of Wings
+	5 Dreamscape Stag
+	5 Flight of Skywhales
+	5 Drift Off
+	5 Mind Whirl
+	5 Dreamscape's Boon
+	5 Harness Winds
+	5 Hopestalker
+	5 Void Hunters
+	5 Ravenous Pigbat
+	5 Lakeside Revenant
+	5 Psyche Syphoner
+	5 Foolish Mistake
+	5 Showboat
+	5 Shadow of the Valley
+	5 Harness Shadow
+	5 Sunwisp Knight
+	5 Lightning Bottler
+	5 Extravagant Seer
+	5 Mindblast Mage
+	5 Eclipse Apparition
+	5 Infernal Trumpeter
+	5 Spark of Inspiration
+	5 Creative Partnership
+	5 Surge of Confidence
+	5 Head in the Clouds
+	5 Harness Flame
+	5 Grandgrowth Keeper
+	5 Playful Lotus-Eater
+	5 Ruthless Sureshot
+	5 Bloom Terror
+	5 Branchback Bear
+	5 Peripheral Hulk
+	5 Fantastical Ferocity
+	5 Harness Nature
+	5 Artificial Dreamer
+	5 Epiphany
+	5 Opulent Blademaster
+	5 Dreamsun's Attendants
+	5 Dive Into Dream
+	5 Fieldbound Explorer
+	5 Sunglyph Eagle
+	5 Wishborn Amalgam
+	5 Contemplative Ascetic
+	5 Destabilize
+	5 Discover the Possibilities
+	5 Entrancing Vision
+	5 Melancholy Melodicist
+	5 Sapphire Imagi
+	5 Stifle Creativity
+	5 Torrent Shaper
+	5 Maze of Thought
+	5 Whimsical Drake
+	5 Ashiok's Devoted
+	5 Nightmare Winds
+	5 Extract the Truth
+	5 Farwoods Marauder
+	5 Resilient Ambition
+	5 Revoke Reality
+	5 Wounded Pride
+	5 Valley Tormentor
+	5 Brilliant Bravado
+	5 Campfire Elemental
+	5 Daring Dreamblade
+	5 Release Burdens
+	5 Storm Strider
+	5 Rule by Fear
+	5 Crushing Canopy
+	5 Emerald Dryad
+	5 Enhance Abilities
+	5 Enlist the Ecology
+	5 Greenhouse Mosshorn
+	5 Growth Mindset
+	5 Strength of Memory
+	5 Conjurer's Steed
+	5 Sunstone Harvester
+	5 Tara's Sentry
+	5 Table of Trinkets
+	5 Sunstone Pedestal
+	5 Arcane Compass
+	5 Commune with Opportunity
+	5 Decorated Dreamblade
+	5 Cloudstrider Herd
+	5 Trappings of the Mind
+	5 Creativity's Touch
+	5 Farwoods Alpha
+	5 Dreamcatcher's Confidence
+	5 Shoot for the Stars
+	5 Farseer Fox
+	5 Entrancing Aspirant
+	5 Merciless Resolve
+	5 Terramorphic Expanse

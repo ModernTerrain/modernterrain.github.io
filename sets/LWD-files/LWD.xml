@@ -1,0 +1,1260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>LWD</name>
+			<longname>Lusia: Wildest Dreams</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-22</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Against All Odds</name>
+			<text>Choose up to two —
+• Exile target artifact or creature you control, then return it to the battlefield under its owner&apos;s control.
+• Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/0.jpg" num="2">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bushwhack</name>
+			<text>Choose one —
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/1.jpg" num="54">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abrade</name>
+			<text>Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/2.jpg" num="40">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Doomfall</name>
+			<text>Choose one —
+• Target opponent exiles a creature they control.
+• Target opponent reveals their hand. You choose a nonland card from it. Exile that card.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/3.jpg" num="30">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Defabricate</name>
+			<text>Choose one —
+• Counter target artifact or enchantment spell. If a spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.
+• Counter target activated or triggered ability.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/4.jpg" num="16">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Healing Salve</name>
+			<text>Choose one —
+• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to target creature or player this turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/5.jpg" num="10">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dawn Charm</name>
+			<text>Choose one —
+• Prevent all combat damage that would be dealt this turn.
+• Regenerate target creature. (The next time that permanent would be destroyed this turn, it isn&apos;t. Instead tap it.)
+• Counter target spell that targets you.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/6.jpg" num="7">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fortify</name>
+			<text>Choose one —
+• Creatures you control get +2/+0 until end of turn.
+• Creatures you control get +0/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/7.jpg" num="9">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oracle of Tragedy</name>
+			<text>When this creature enters or dies, choose one —
+• Draw a card, then discard a card.
+• Shuffle up to four target cards with mana value 3 or greater from your graveyard into your library.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/8.jpg" num="23">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Read the Tides</name>
+			<text>Choose one —
+• Draw three cards.
+• Return up to two target creatures to their owner&apos;s hands.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/9.jpg" num="25">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Djinn of the Fountain</name>
+			<text>Flying
+Whenever you cast an instant or sorcery spell, choose one —
+• This creature gets +1/+1 until end of turn.
+• Exile this creature. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
+• Scry 1.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/10.jpg" num="18">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Djinn</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shambling Ghast</name>
+			<text>When this creature dies, choose one —
+• Target creature an opponent controls gets -1/-1 until end of turn.
+• Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/11.jpg" num="37">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Return From Extinction</name>
+			<text>Choose one —
+• Return target creature card from your graveyard to your hand.
+• Return two target creature cards that share a creature type from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/12.jpg" num="36">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Subtle Strike</name>
+			<text>Choose up to two —
+• Target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/13.jpg" num="38">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Untimely Malfunction</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Change the target of target spell or ability with a single target.
+• One or two target creatures can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/14.jpg" num="52">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exhibition Magician</name>
+			<text>When this creature enters, choose one —
+• Create a 1/1 green and white Citizen creature token.
+• Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/15.jpg" num="44">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invigorated Rampage</name>
+			<text>Choose one —
+• Target creature gets +4/+0 and gains trample until end of turn.
+• Two target creatures each get +2/+0 and gain trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/16.jpg" num="48">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ruthless Instincts</name>
+			<text>Choose one —
+• Target nonattacking creature gains deathtouch and reach until end of turn. Untap it.
+• Target attacking creature gets +2/+2 and gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/17.jpg" num="61">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pollenbright Druid</name>
+			<text>When this creature enters, choose one —
+• Put a +1/+1 counter on target creature.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/18.jpg" num="59">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspiring Bard</name>
+			<text>When this creature enters, choose one —
+• Target creature gets +2/+2 until end of turn.
+• You gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LWD-files/img/19.jpg" num="57">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charming Prince</name>
+			<text>When this creature enters, choose one —
+• Scry 2.
+• You gain 3 life.
+• Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/20.jpg" num="4">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Collective Effort</name>
+			<text>Escalate—Tap an untapped creature you control. (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Destroy target creature with power 4 or greater.
+• Destroy target enchantment.
+• Put a +1/+1 counter on each creature target player controls.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/21.jpg" num="5">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Academic Probation</name>
+			<text>Choose one —
+• Choose a nonland card name. Opponents can&apos;t cast spells with the chosen name until your next turn.
+• Choose target nonland permanent. Until your next turn, it can&apos;t attack or block, and its activated abilities can&apos;t be activated.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/22.jpg" num="1">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Lesson</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Righteous Confluence</name>
+			<text>Choose three. You may choose the same mode more than once.
+• Create a 2/2 white Knight creature token with vigilance.
+• Exile target enchantment.
+• You gain 5 life.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/23.jpg" num="11">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmogrand Zenith</name>
+			<text>Whenever you cast your second spell each turn, choose one —
+• Create two 1/1 white Human Soldier creature tokens.
+• Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/24.jpg" num="6">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Suncleanser</name>
+			<text>When this creature enters, choose one —
+• Remove all counters from target creature. It can&apos;t have counters put on it for as long as this creature remains on the battlefield.
+• Target opponent loses all counters. That player can&apos;t get counters for as long as this creature remains on the battlefield.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/25.jpg" num="12">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inscription of Insight</name>
+			<text>Kicker {2}{U}{U} (You may pay an additional {2}{U}{U} as you cast this spell.)
+Choose one. If this spell was kicked, choose any number instead.
+• Return up to two target creatures to their owners&apos; hands.
+• Scry 2, then draw two cards.
+• Target player creates an X/X blue Illusion creature token, where X is the number of cards in their hand.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/26.jpg" num="22">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreamshackle Geist</name>
+			<text>Flying
+At the beginning of combat on your turn, choose up to one —
+• Tap target creature.
+• Target creature doesn&apos;t untap during its controller&apos;s next untap step.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/27.jpg" num="19">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perplexing Test</name>
+			<text>Choose one —
+• Return all creature tokens to their owners&apos; hands.
+• Return all nontoken creatures to their owners&apos; hands.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/28.jpg" num="24">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Silent Hallcreeper</name>
+			<text>This creature can&apos;t be blocked.
+Whenever this creature deals combat damage to a player, choose one that hasn&apos;t been chosen —
+• Put two +1/+1 counters on this creature.
+• Draw a card.
+• This creature becomes a copy of another target creature you control.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/29.jpg" num="26">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aether Channeler</name>
+			<text>When this creature enters, choose one —
+• Create a 1/1 white Bird creature token with flying.
+• Return another target nonland permanent to its owner&apos;s hand.
+• Draw a card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/30.jpg" num="14">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fascination</name>
+			<text>Choose one —
+• Each player draws X cards.
+• Each player mills X cards.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/31.jpg" num="20">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodline Culling</name>
+			<text>Choose one —
+• Target creature gets -5/-5 until end of turn.
+• Creature tokens get -2/-2 until end of turn.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/32.jpg" num="27">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mastermind&apos;s Acquisition</name>
+			<text>Choose one —
+• Search your library for a card, put it into your hand, then shuffle.
+• Put a card you own from outside the game into your hand.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/33.jpg" num="33">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Triskaidekaphobia</name>
+			<text>At the beginning of your upkeep, choose one —
+• Each player with exactly 13 life loses the game, then each player gains 1 life.
+• Each player with exactly 13 life loses the game, then each player loses 1 life.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/34.jpg" num="39">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Collective Brutality</name>
+			<text>Escalate—Discard a card. (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target opponent reveals their hand. You choose an instant or sorcery card from it. That player discards that card.
+• Target creature gets -2/-2 until end of turn.
+• Target opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/35.jpg" num="28">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inscription of Ruin</name>
+			<text>Kicker {2}{B}{B} (You may pay an additional {2}{B}{B} as you cast this spell.)
+Choose one. If this spell was kicked, choose any number instead.
+• Target opponent discards two cards.
+• Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+• Destroy target creature with mana value 3 or less.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/36.jpg" num="32">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dread Presence</name>
+			<text>Whenever a Swamp you control enters, choose one —
+• You draw a card and you lose 1 life.
+• This creature deals 2 damage to any target and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/37.jpg" num="31">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charming Scoundrel</name>
+			<text>Haste
+When this creature enters, choose one —
+• Discard a card, then draw a card.
+• Create a Treasure token.
+• Create a Wicked Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this Aura is put into a graveyard, each opponent loses 1 life.)</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/38.jpg" num="41">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Collective Defiance</name>
+			<text>Escalate {1} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target player discards all the cards in their hand, then draws that many cards.
+• Collective Defiance deals 4 damage to target creature.
+• Collective Defiance deals 3 damage to target opponent or planeswalker.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/39.jpg" num="43">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tectonic Giant</name>
+			<text>Whenever this creature attacks or becomes the target of a spell an opponent controls, choose one —
+• This creature deals 3 damage to each opponent.
+• Exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/40.jpg" num="51">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Choreographed Sparks</name>
+			<text>This spell can&apos;t be copied.
+Choose up to two —
+• Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+• Copy target creature spell you control. The copy gains haste and &quot;At the beginning of the next end step, sacrifice this token.&quot;</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/41.jpg" num="42">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ferocification</name>
+			<text>At the beginning of combat on your turn, choose one —
+• Target creature you control gets +2/+0 until end of turn.
+• Target creature you control gains menace and haste until end of turn.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/42.jpg" num="45">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grab the Reins</name>
+			<text>Choose one —
+• Until end of turn, you gain control of target creature and it gains haste.
+• Sacrifice a creature. Grab the Reins deals damage equal to that creature&apos;s power to any target.
+Entwine {2}{R} (Choose two if you pay the entwine cost.)</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/43.jpg" num="46">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gala Greeters</name>
+			<text>Alliance — Whenever another creature you control enters, choose one that hasn&apos;t been chosen this turn —
+• Put a +1/+1 counter on this creature.
+• Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+• You gain 2 life.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/44.jpg" num="55">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skinshifter</name>
+			<text>{G}: Choose one. Activate only once each turn.
+• Until end of turn, this creature becomes a Rhino with base power and toughness 4/4 and gains trample.
+• Until end of turn, this creature becomes a Bird with base power and toughness 2/2 and gains flying.
+• Until end of turn, this creature becomes a Plant with base power and toughness 0/8.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/45.jpg" num="62">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voracious Hydra</name>
+			<text>Trample
+This creature enters with X +1/+1 counters on it.
+When this creature enters, choose one —
+• Double the number of +1/+1 counters on Voracious Hydra.
+• Voracious Hydra fights target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/46.jpg" num="65">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Planewide Celebration</name>
+			<text>Choose four. You may choose the same mode more than once.
+• Create a 2/2 Citizen creature token that&apos;s all colors.
+• Return target permanent card from your graveyard to your hand.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+• You gain 4 life.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/47.jpg" num="58">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Archdruid&apos;s Charm</name>
+			<text>Choose one —
+• Search your library for a creature or land card and reveal it. Put it onto the battlefield tapped if it&apos;s a land card. Otherwise, put it into your hand. Then shuffle.
+• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don&apos;t control.
+• Exile target artifact or enchantment.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/48.jpg" num="53">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GGG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inscription of Abundance</name>
+			<text>Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+Choose one. If this spell was kicked, choose any number instead.
+• Put two +1/+1 counters on target creature.
+• Target player gains X life, where X is the greatest power among creatures they control.
+• Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/49.jpg" num="56">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Titan of Industry</name>
+			<text>Reach, trample
+When this creature enters, choose two —
+• Destroy target artifact or enchantment.
+• Target player gains 5 life.
+• Create a 4/4 green Rhino Warrior creature token.
+• Put a shield counter on a creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/50.jpg" num="63">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4GGG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primal Command</name>
+			<text>Choose two —
+• Target player gains 7 life.
+• Put target noncreature permanent on top of its owner&apos;s library.
+• Target player shuffles their graveyard into their library.
+• Search your library for a creature card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/51.jpg" num="60">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tooth and Nail</name>
+			<text>Choose one —
+• Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle.
+• Put up to two creature cards from your hand onto the battlefield.
+Entwine {2} (Choose both if you pay the entwine cost.)</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/52.jpg" num="64">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Incendiary Command</name>
+			<text>Choose two —
+• Incendiary Command deals 4 damage to target player or planeswalker.
+• Incendiary Command deals 2 damage to each creature.
+• Destroy target nonbasic land.
+• Each player discards all the cards in their hand, then draws that many cards.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/53.jpg" num="47">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mob Rule</name>
+			<text>Choose one —
+• Gain control of all creatures with power 4 or greater until end of turn. Untap those creatures. They gain haste until end of turn.
+• Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/54.jpg" num="49">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Savage Beating</name>
+			<text>Cast this spell only during your turn and only during combat.
+Choose one —
+• Creatures you control gain double strike until end of turn.
+• Untap all creatures you control. After this phase, there is an additional combat phase.
+Entwine {1}{R} (Choose two if you pay the entwine cost.)</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/55.jpg" num="50">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Demonic Pact</name>
+			<text>At the beginning of your upkeep, choose one that hasn&apos;t been chosen —
+• This enchantment deals 4 damage to any target and you gain 4 life.
+• Target opponent discards two cards.
+• Draw two cards.
+• You lose the game.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/56.jpg" num="29">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Profane Command</name>
+			<text>Choose two —
+• Target player loses X life.
+• Return target creature card with mana value X or less from your graveyard to the battlefield.
+• Target creature gets -X/-X until end of turn.
+• Up to X target creatures gain fear until end of turn. (That creature can&apos;t be blocked except by artifact creatures and/or black creatures.)</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/57.jpg" num="35">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nightmare Unmaking</name>
+			<text>Choose one —
+• Exile each creature with power greater than the number of cards in your hand.
+• Exile each creature with power less than the number of cards in your hand.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/58.jpg" num="34">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hullbreaker Horror</name>
+			<text>Flash
+This spell can&apos;t be countered.
+Whenever you cast a spell, choose up to one —
+• Return target spell you don&apos;t control to its owner&apos;s hand.
+• Return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/59.jpg" num="21">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>7/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryptic Command</name>
+			<text>Choose two —
+• Counter target spell.
+• Return target permanent to its owner&apos;s hand.
+• Tap all creatures your opponents control.
+• Draw a card.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/60.jpg" num="15">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UUU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disciple of the Ring</name>
+			<text>{1}, Exile an instant or sorcery card from your graveyard: Choose one —
+• Counter target noncreature spell unless its controller pays {2}.
+• This creature gets +1/+1 until end of turn.
+• Tap target creature.
+• Untap target creature.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/61.jpg" num="17">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Felidar Retreat</name>
+			<text>Landfall — Whenever a land you control enters, choose one —
+• Create a 2/2 white Cat Beast creature token.
+• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LWD-files/img/62.jpg" num="8">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Austere Command</name>
+			<text>Choose two —
+• Destroy all artifacts.
+• Destroy all enchantments.
+• Destroy all creatures with mana value 3 or less.
+• Destroy all creatures with mana value 4 or greater.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/63.jpg" num="3">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warren Warleader</name>
+			<text>Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Whenever you attack, choose one —
+• Create a 1/1 white Rabbit creature token that&apos;s tapped and attacking.
+• Attacking creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LWD-files/img/64.jpg" num="13">LWD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

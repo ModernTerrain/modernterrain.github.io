@@ -1,0 +1,537 @@
+﻿[
+    {
+        "card_name": "Austere Command",
+        "number": 3,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Cryptic Command",
+        "number": 15,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Demonic Pact",
+        "number": 29,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Incendiary Command",
+        "number": 47,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Primal Command",
+        "number": 60,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Cosmogrand Zenith",
+        "number": 6,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Hullbreaker Horror",
+        "number": 21,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Nightmare Unmaking",
+        "number": 34,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Mob Rule",
+        "number": 49,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Titan of Industry",
+        "number": 63,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Warren Warleader",
+        "number": 13,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Perplexing Test",
+        "number": 24,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Profane Command",
+        "number": 35,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Savage Beating",
+        "number": 50,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Tooth and Nail",
+        "number": 64,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Academic Probation",
+        "number": 1,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Aether Channeler",
+        "number": 14,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Bloodline Culling",
+        "number": 27,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Charming Scoundrel",
+        "number": 41,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Archdruid's Charm",
+        "number": 53,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Charming Prince",
+        "number": 4,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Disciple of the Ring",
+        "number": 17,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Collective Brutality",
+        "number": 28,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Choreographed Sparks",
+        "number": 42,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Gala Greeters",
+        "number": 55,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Collective Effort",
+        "number": 5,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Dreamshackle Geist",
+        "number": 19,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Dread Presence",
+        "number": 31,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Collective Defiance",
+        "number": 43,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Inscription of Abundance",
+        "number": 56,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Felidar Retreat",
+        "number": 8,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Fascination",
+        "number": 20,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Inscription of Ruin",
+        "number": 32,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Ferocification",
+        "number": 45,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Planewide Celebration",
+        "number": 58,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Righteous Confluence",
+        "number": 11,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Inscription of Insight",
+        "number": 22,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Mastermind's Acquisition",
+        "number": 33,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Grab the Reins",
+        "number": 46,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Skinshifter",
+        "number": 62,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Suncleanser",
+        "number": 12,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Silent Hallcreeper",
+        "number": 26,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Triskaidekaphobia",
+        "number": 39,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Tectonic Giant",
+        "number": 51,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Voracious Hydra",
+        "number": 65,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Against All Odds",
+        "number": 2,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Defabricate",
+        "number": 16,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Doomfall",
+        "number": 30,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Abrade",
+        "number": 40,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Bushwhack",
+        "number": 54,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Dawn Charm",
+        "number": 7,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Djinn of the Fountain",
+        "number": 18,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Return From Extinction",
+        "number": 36,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Exhibition Magician",
+        "number": 44,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Inspiring Bard",
+        "number": 57,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Fortify",
+        "number": 9,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Oracle of Tragedy",
+        "number": 23,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Shambling Ghast",
+        "number": 37,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Invigorated Rampage",
+        "number": 48,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Pollenbright Druid",
+        "number": 59,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Healing Salve",
+        "number": 10,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Read the Tides",
+        "number": 25,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Subtle Strike",
+        "number": 38,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Untimely Malfunction",
+        "number": 52,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Ruthless Instincts",
+        "number": 61,
+        "shape": "normal",
+        "set": "LWD",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

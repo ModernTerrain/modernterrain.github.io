@@ -1,0 +1,5271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>LUS</name>
+			<longname>Lusia Take Two</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-22</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Seeker of Whims</name>
+			<text>Flying
+{2}{W}, Exile this card from your graveyard: Daydream. You gain 3 life. Activate only as a sorcery. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/0.jpg" num="35">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cheerful Merchant</name>
+			<text>When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/1.jpg" num="9">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firelight Warden</name>
+			<text>Whenever this creature deals combat damage to a Nightmare, destroy it.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/2.jpg" num="25">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dozing Mount</name>
+			<text>Whenever you choose one or more modes, you gain 1 life and scry 1.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/3.jpg" num="17">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Festival Wanderers</name>
+			<text>As an additional cost to cast this spell, tap two untapped creatures or artifacts you control or pay {2}.
+Vigilance</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/4.jpg" num="23">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harness Sunlight</name>
+			<text>Escalate {1} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Put a vigilance counter on target creature.
+• Harness Sunlight deals 2 damage to target attacking or blocking creature.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/5.jpg" num="26">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Territorial Verdict</name>
+			<text>Escalate {2}{W} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Destroy target creature with power 4 or greater.
+• Create a 2/2 white Griffin creature token with flying.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/6.jpg" num="42">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stand Stalwart</name>
+			<text>Creatures you control get +1/+2 until end of turn. If you&apos;ve cast another spell this turn, untap those creatures.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/7.jpg" num="38">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Veiled Watcher</name>
+			<text>Vigilance
+As long as a graveyard has eight or more cards in it, this creature gets +2/+1.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/8.jpg" num="87">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thought Hopper</name>
+			<text>Flash
+When this creature enters, scry 1, then target player mills a card.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/9.jpg" num="85">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wisher of Wings</name>
+			<text>Flying
+When this creature enters, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/10.jpg" num="91">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamscape Stag</name>
+			<text>When this creature leaves the battlefield, put up to one target instant or sorcery card from your graveyard on top of your library.
+Evoke {1}{U} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/11.jpg" num="61">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flight of Skywhales</name>
+			<text>This spell costs {1} less to cast for each kind of counter among permanents you control.
+Flying</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/12.jpg" num="65">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drift Off</name>
+			<text>Tap target creature and put two stun counters on it. Daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/13.jpg" num="63">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mind Whirl</name>
+			<text>Scry 2, then draw two cards. Target player mills two cards.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/14.jpg" num="76">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreamscape&apos;s Boon</name>
+			<text>Target creature you control gets +0/+2 and gains hexproof until end of turn. Put a ward {2} counter on it. (Whenever that permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/15.jpg" num="62">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harness Winds</name>
+			<text>Escalate {1} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Put a flying counter on target creature.
+• Tap or untap target creature.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/16.jpg" num="67">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tormented Bookkeeper</name>
+			<text>At the beginning of your end step, if a creature died this turn, you may pay {1}. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/17.jpg" num="133">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hopestalker</name>
+			<text>As long as it&apos;s your turn, prevent all damage that would be dealt to this creature by Dreams.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/18.jpg" num="112">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Void Hunters</name>
+			<text>When this creature leaves the battlefield, target player sacrifices a creature.
+Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/19.jpg" num="134">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Pigbat</name>
+			<text>Flying
+When this creature dies, choose one —
+• Each player mills two cards.
+• Put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/20.jpg" num="126">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bat Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lakeside Revenant</name>
+			<text>When this creature enters, another target creature you control gets +1/+0 and gains menace and indestructible until end of turn.
+Evoke {B} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/21.jpg" num="116">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Psyche Syphoner</name>
+			<text>Deathtouch
+When this creature enters, target player mills three cards. Each opponent loses life equal to the number of nonland cards milled this way.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/22.jpg" num="125">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Foolish Mistake</name>
+			<text>This spell costs {1} less to cast if a creature died this turn.
+Target creature gets -4/-4 until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/23.jpg" num="106">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Showboat</name>
+			<text>Target creature you control gets +1/+0 and gains lifelink until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/24.jpg" num="130">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shadow of the Valley</name>
+			<text>Create an X/X black Nightmare creature token, where X is the number of creature cards in your graveyard.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/25.jpg" num="129">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harness Shadow</name>
+			<text>Escalate {1} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Put a lifelink counter on target creature.
+• Target creature gets -1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/26.jpg" num="110">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sunwisp Knight</name>
+			<text>Whenever you choose one or more modes, this creature gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/27.jpg" num="177">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightning Bottler</name>
+			<text>{2}{R}, {T}, Sacrifice an artifact or land: Scry 1, then draw a card.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/28.jpg" num="158">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extravagant Seer</name>
+			<text>Whenever you scry, put a +1/+1 counter on this creature. It gains menace until end of turn. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/29.jpg" num="149">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mindblast Mage</name>
+			<text>When this creature enters, choose one —
+• Destroy target artifact.
+• This creature deals 2 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/30.jpg" num="163">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eclipse Apparition</name>
+			<text>Reach
+Whenever a Nightmare you control leaves the battlefield, this creature deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/31.jpg" num="147">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infernal Trumpeter</name>
+			<text>When this creature enters, creatures you control get +1/+0 and gain haste until end of turn.
+Evoke {1}{R} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/32.jpg" num="154">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spark of Inspiration</name>
+			<text>Spark of Inspiration deals 4 damage to target creature or planeswalker. Scry 1.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/33.jpg" num="173">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Creative Partnership</name>
+			<text>Daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)
+Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/34.jpg" num="145">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Surge of Confidence</name>
+			<text>Target creature you control gets +1/+0 and gains first strike until end of turn. Scry 1.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/35.jpg" num="178">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Head in the Clouds</name>
+			<text>Up to two target creatures can&apos;t block this turn. 
+Daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/36.jpg" num="153">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harness Flame</name>
+			<text>Escalate {1} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Put a menace counter on target creature.
+• Harness Flame deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/37.jpg" num="152">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grandgrowth Keeper</name>
+			<text>When this creature enters, choose one —
+• You gain 3 life.
+• Target creature you control gets +1/+1 and gains vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/38.jpg" num="200">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Playful Lotus-Eater</name>
+			<text>{T}: Add one mana of any color.
+Whenever you choose one or more modes, untap this creature.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/39.jpg" num="214">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruthless Sureshot</name>
+			<text>Reach
+When this creature enters, if a creature died this turn, draw a card.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/40.jpg" num="216">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloom Terror</name>
+			<text>When this creature leaves the battlefield, you may exile it. If you do, return target permanent card from your graveyard to your hand.
+Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/41.jpg" num="183">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Branchback Bear</name>
+			<text>{3}{G}: Choose one —
+• This creature gets +2/+2 until end of turn.
+• Creatures you control gain trample until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/42.jpg" num="184">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Peripheral Hulk</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+{1}{G}, Exile this card from your graveyard: Draw a card.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/43.jpg" num="213">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fantastical Ferocity</name>
+			<text>Target creature you control gets +2/+2 until end of turn if it has a counter on it. Then, it fights target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/44.jpg" num="195">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harness Nature</name>
+			<text>Escalate {1} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Put a +1/+1 counter on target creature.
+• Untap target permanent.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/45.jpg" num="204">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Artificial Dreamer</name>
+			<text>{3}, Exile this card from your graveyard: Daydream. Activate only as a sorcery. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/46.jpg" num="250">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Epiphany</name>
+			<text>When this creature enters, you may search your library for a basic land card, reveal it, put that card into your hand, then shuffle.
+Evoke {2} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/47.jpg" num="2">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Nightmare Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Expert Dreamcatcher</name>
+			<text>Imagination — Modal spells and abilities you control have &quot;Exile target creature. Return it to the battlefield at the beginning of the next end step&quot; in addition to their other modes.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/48.jpg" num="20">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunstone Guardian</name>
+			<text>Flying
+When this creature enters or becomes the target of a spell or ability, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/49.jpg" num="40">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Cat Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Symmetry Cultivator</name>
+			<text>When this creature enters, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)
+Whenever, this creature attacks, up to one target creature you control has base power and toughness 3/3 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/50.jpg" num="84">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Visual Learner</name>
+			<text>Whenever this creature attacks, scry 1.
+Whenever you put one or more cards on the bottom of your library, choose target creature an opponent controls. If it&apos;s tapped, put a stun counter on it. Otherwise, tap it.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/51.jpg" num="89">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lucid Dreams</name>
+			<text>Draw X cards, where X is the number of card types among cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/52.jpg" num="71">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Opulent Blademaster</name>
+			<text>{1}{B}: Put a +1/+1 counter on this creature. Activate only once each turn and only if a creature died this turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/53.jpg" num="122">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ornithophobia</name>
+			<text>Flying
+When this creature enters or leaves the battlefield, other creatures get -1/-1 until end of turn.
+Evoke {1}{B}{B} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/54.jpg" num="123">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Memory Sifter</name>
+			<text>When this creature leaves the battlefield, you may search your library for a card, put that card into your hand, then shuffle.
+Evoke {2}{B}{B} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/55.jpg" num="118">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forget</name>
+			<text>As an additional cost to cast this spell, exile a creature card from your graveyard.
+Destroy target creature.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/56.jpg" num="107">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fears Realized</name>
+			<text>Choose one —
+• Remove up to three counters from target permanent.
+• Target player discards a card.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/57.jpg" num="105">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Molten Dreamhunter</name>
+			<text>Trample
+When this creature enters or leaves the battlefield, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)
+Evoke {2}{R} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/58.jpg" num="165">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ingenious Guide</name>
+			<text>Imagination — Modal spells and abilities you control have &quot;Target creature can&apos;t block this turn&quot; in addition to their other modes.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/59.jpg" num="155">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Astraphobia</name>
+			<text>Escalate {1}{R} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Until end of turn, if a red source you control would deal damage, it deals that much damage plus 2.
+• Astraphobia deals 4 damage to target creature.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/60.jpg" num="139">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reckless Challenge</name>
+			<text>Each player exiles the top card of their library. Reckless Challenge deals damage to each player equal to the mana value of the card they exiled this way. Until the end of your next turn, you may play cards exiled this way, and mana of any type can be spent to cast them.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/61.jpg" num="168">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Druid&apos;s Hand</name>
+			<text>When this creature leaves the battlefield, target land you control becomes a 5/5 green Elemental creature. It&apos;s still a land.
+Evoke {3}{G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/62.jpg" num="191">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Might Realizer</name>
+			<text>Vigilance
+Imagination — Modal spells and abilities you control have &quot;Target creature you control gets +3/+3 until end of turn.&quot; in addition to their other modes.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/63.jpg" num="211">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lotus-Eye Tiger</name>
+			<text>Whenever this creature attacks, choose one —
+• Put a trample counter on target creature.
+• Put a reach counter on target creature.
+• Put a vigilance counter on target creature. Untap it.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/64.jpg" num="209">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Distract</name>
+			<text>Target creature you control must be blocked this turn if able. When that creature becomes blocked this turn, you may return it to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/65.jpg" num="190">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Weave Your Legacy</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Choose one that hasn&apos;t been chosen —
+• Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+• Put two +1/+1 counters on target creature.
+• Up to two target creatures you control gain indestructible until end of turn. 
+​
+​</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/66.jpg" num="46">LUS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Descend into Madness</name>
+			<text>This spell costs {1} less to cast for each other spell you&apos;ve cast this turn.
+Destroy target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/67.jpg" num="99">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Live Life on a Whim</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Choose one that hasn&apos;t been chosen —
+• Discard two cards, then draw two cards.
+• This enchantment deals 2 damage to any target.
+• You may put a creature card with mana value 4 or less from your hand onto the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.
+​
+​</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/68.jpg" num="159">LUS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cloak in Wishes</name>
+			<text>Escalate {1}{G} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target creature gets +2/+2 until end of turn.
+• Target creature gains hexproof and indestructible until end of turn.
+• Whenever target creature deals combat damage to a player this turn, draw two cards.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/69.jpg" num="186">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crystalline Guard</name>
+			<text>When you put this card on the bottom of your library, or this card is put into your graveyard from your library, you may reveal it. If you do, you may cast it.
+When this creature enters, put a +1/+1 counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/70.jpg" num="252">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uncertainty</name>
+			<text>When this creature enters, target opponent looks at the top four cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.
+Evoke {4} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/71.jpg" num="4">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Nightmare Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duskwrought Obelisk</name>
+			<text>{1}, {T}: Put a torment counter on target creature.
+Whenever a creature with a torment counter on it dies, draw a card.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/72.jpg" num="253">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Destiny Chaser</name>
+			<text>{1}{W}: Choose one. Activate only once —
+• Put a vigilance counter on this creature. It becomes a Human Soldier with base power and toughness 3/3.
+• Put a lifelink counter on this creature. It becomes a Human Cleric with base power and toughness 2/4.
+{2}{W}: If this creature is a Soldier or Knight, put a +1/+1 counter on it. It becomes an Incarnation Knight.
+{2}{W}: If this creature is a Cleric or Mystic, it gets +2/+2 until end of turn. It becomes an Incarnation Mystic.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/73.jpg" num="15">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Serenity</name>
+			<text>When this creature or another creature you control enters, target creature can&apos;t attack or block until your next turn.
+You may cast this card from your graveyard by tapping an untapped white creature you control rather than paying its mana cost. If you do, it&apos;s exiled when it enters the battlefield.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/74.jpg" num="37">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illusions of Choice</name>
+			<text>When this creature enters, choose first or second.
+Players may only choose the chosen mode for modal spells and abilities if able.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/75.jpg" num="28">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Discovery</name>
+			<text>When this creature enters and at the beginning of your upkeep, scry 1, then you may reveal the top card of your library. If you do, spells you cast this turn that share a card type with the revealed card cost {1} less to cast.
+You may cast this card from your graveyard by tapping an untapped blue creature you control rather than paying its mana cost. If you do, it&apos;s exiled when it enters the battlefield.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/76.jpg" num="57">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perished Thoughts</name>
+			<text>When you cast this spell, copy it for each permanent card in a graveyard that was put there from anywhere this turn.
+Flying</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/77.jpg" num="124">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Desire</name>
+			<text>When this creature enters, exile target creature card from an opponent&apos;s graveyard. Until end of turn, you may cast that card, and you may spend mana as though it were mana of any type to cast it.
+You may cast this card from your graveyard by tapping an untapped black creature you control rather than paying its mana cost. If you do, it&apos;s exiled when it enters the battlefield.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/78.jpg" num="100">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Baroness of Broken Dreams</name>
+			<text>Whenever you cast your second spell each turn, choose one —
+• Exile that spell as it resolves.
+• Exile up to one target card from an opponent&apos;s graveyard.
+{3}{B}, {T}, Sacrifice this creature: Until end of turn, you may cast cards exiled with this creature by paying life equal to their mana value rather than paying their mana cost.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/79.jpg" num="98">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Festival Lights</name>
+			<text>When this enchantment enters, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)
+Whenever you choose one or more modes, put a +1/+1 counter on this enchantment, then it becomes a 0/0 Dream Fish creature with haste and trample in addition to its other types until end of turn.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/80.jpg" num="151">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Faceless Forging</name>
+			<text>Exile target creature, then choose one —
+• Its controller exiles cards from the top of their library until they exile a creature card, then puts that card onto the battlefield.
+• Its controller exiles the top card of their library. They may cast that card without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/81.jpg" num="150">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Intrusive Thought</name>
+			<text>When this creature enters, target creature deals damage equal to its power to its controller.
+Whenever you are dealt damage for the first time each turn, exile the top card of your library. You may cast that card until your next end step.
+Evoke {1}{R} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/82.jpg" num="156">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recklessness</name>
+			<text>Whenever a creature you control leaves the battlefield, this creature deals 1 damage to any target. If this is the first time this ability has resolved this turn, create a Treasure token.
+You may cast this card from your graveyard by tapping an untapped red creature you control rather than paying its mana cost. If you do, it&apos;s exiled when it enters the battlefield.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/83.jpg" num="169">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Everflare Imagi</name>
+			<text>Whenever this creature deals damage, put a +1/+1 counter on it.
+Imagination — Modal spells and abilities you control have &quot;Everflare Imagi deals 2 damage to any target.&quot; in addition to their other modes.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/84.jpg" num="148">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Patience</name>
+			<text>When this creature enters or attacks, choose another target creature you control. Put two +1/+1 counters on it at the beginning of your next upkeep.
+You may cast this card from your graveyard by tapping an untapped green creature you control rather than paying its mana cost. If you do, it&apos;s exiled when it enters the battlefield.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/85.jpg" num="212">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Show the Ropes</name>
+			<text>Search your library for a creature card, reveal it, then shuffle and put that card on top. Then choose one —
+• Show the Ropes deals damage equal to that card&apos;s power to target creature.
+• Draw two cards.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/86.jpg" num="217">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cloudsea Traveler</name>
+			<text>When this creature enters, put a flying counter on each of up to X target creatures you control.
+Whenever a creature you control with a counter on it deals combat damage to a player, draw a card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/87.jpg" num="52">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>XXU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haunted Traveler</name>
+			<text>At the beginning of your upkeep, if you control no Fish, create a 1/1 blue Fish Nightmare creature token.
+At the beginning of your end step, if a creature died this turn, target opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/88.jpg" num="111">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Siban, Wish-Crowned</name>
+			<text>Trample
+When Siban dies, choose one —
+• Return it to the battlefield with two +1/+1 counters and a finality counter on it.
+• Exile it, then reveal the top three cards of your library. Put up to two permanent or modal cards revealed this way into your hand and the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/89.jpg" num="218">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bear Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamcatcher Squad</name>
+			<text>When this creature enters, search your library for a Dream or Nightmare creature card, reveal it, put it into your hand, then shuffle.
+{2}{U}, {T}: Exile target creature you control. Return it to the battlefield at the beginning of your next upkeep.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/90.jpg" num="59">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kadha, Fear Glutton</name>
+			<text>Whenever Kadha enters or attacks, each opponent mills a card. If a nonland card was milled this way, you get an experience counter.
+Kadha gets +1/+1 for each experience counter you have.
+{1}{B}, Exile three other cards from your graveyard: Return Kadha from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/91.jpg" num="115">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jubilant Sprinter</name>
+			<text>Haste
+Whenever this creature attacks, scry 1, then you may reveal the top card of your library. If it&apos;s a creature card, put it onto the battlefield tapped and attacking. At the beginning of your next end step, put that creature on the bottom of your library.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/92.jpg" num="157">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wildsight Imagi</name>
+			<text>Imagination — Modal spells and abilities you control have &quot;Create a 2/2 green Beast creature token.&quot; in addition to their other modes.
+Whenever one or more creatures you control deal combat damage to a player, look at the top card of your library. If it&apos;s a land card, you may put it onto the battlefield tapped. If you don&apos;t put the card onto the battlefield this way, put it into your hand.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/93.jpg" num="224">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Masterpiece Hellkite</name>
+			<text>Flying
+{2}: This creature gets +1/+0 until end of turn.
+Whenever this creature deals combat damage to a player, scry X, where X is the damage dealt.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/94.jpg" num="255">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dragon Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mavi, Living Memory</name>
+			<text>Flash
+Flying
+If a Dream you control entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/95.jpg" num="239">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dream Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kyrie, Fear&apos;s Right Hand</name>
+			<text>Kyrie can&apos;t be blocked by creatures with power less than the number of creature cards in their controller&apos;s graveyard.
+Whenever Kyrie attacks and isn&apos;t blocked, create an X/X black Nightmare creature token, where X is the number of creature cards in defending player&apos;s graveyard.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/96.jpg" num="238">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ana, Lantern Augur</name>
+			<text>Flying
+If you would scry a number of cards, scry that many cards plus one instead.
+At the beginning of your upkeep, reveal the top and bottom cards of your library. If they have equal mana value, put both into your hand. Otherwise, Ana deals damage equal to the difference to any target.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/97.jpg" num="226">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Azra Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Estol, Ousted Nightlord</name>
+			<text>Flying
+Whenever one or more other creatures you control die, exile up to one of them.
+Whenever Estol deals combat damage to a player, you may put a creature card exiled with it onto the battlefield with a menace counter and a finality counter on it. That creature becomes a Nightmare in addition to its other types.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/98.jpg" num="233">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nightmare Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Worldsoul Bond</name>
+			<text>When this enchantment enters, daydream three times. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token. Then repeat this process twice.)
+The first spell you cast each turn costs {1} less to cast for each creature you control.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/99.jpg" num="48">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WWW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crowded Mind</name>
+			<text>At the beginning of your upkeep, if it isn&apos;t an extra turn, take an extra turn after this one. Otherwise, reveal the top card of your library. Play that card without paying its mana cost if able. You can&apos;t cast other spells, play other lands, or activate abilities this turn.
+At the beginning of combat on your turn, if it&apos;s an extra turn, choose a creature you control at random. That creature can&apos;t be blocked this turn and must attack this turn if able. Other creatures you control can&apos;t attack this turn.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/100.jpg" num="54">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Infinity Blossoming</name>
+			<text>Whenever you choose a mode for a spell, you may exile that spell as it resolves and note the mode you chose.
+At the beginning of your upkeep, you may choose one from among modes noted for this enchantment and resolve that mode.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/101.jpg" num="205">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memory of Heroism</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Exile target creature with power 4 or greater.
+I — Create two 1/1 colorless Dream creature tokens.
+Exile this Saga. You get an emblem with &quot;Whenever one or more creatures you control with power 2 or less attack, draw a card.&quot;
+You get an emblem with &quot;Whenever one or more creatures you control with power 2 or less attack, draw a card.&quot;</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/102.jpg" num="31">LUS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memory of Tranquility</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Scry 2, then draw two cards.
+II — Target creature&apos;s owner puts it on the top or bottom of their library.
+III — Exile this Saga. You get an emblem with &quot;Whenever you draw or mill one or more cards, put a +1/+1 counter on target creature.&quot;</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/103.jpg" num="74">LUS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memory of Power</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You may sacrifice a permanent. If you do, destroy target creature.
+II — Target creature you control gets +X/+0 and gains indestructible until end of turn, where X is the number of permanent cards in your graveyard.
+III — Exile this Saga. You get an emblem with &quot;At the beginning of your upkeep, you lose 2 life and draw a card.&quot;</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/104.jpg" num="117">LUS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memory of Rage</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Creatures you control get +2/+0 and gain haste until end of turn.
+II — Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+III — Exile this Saga. You get an emblem with &quot;At the beginning of your upkeep, this emblem deals 1 damage to any target.&quot;</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/105.jpg" num="162">LUS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memory of Flourishing</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Return target card from your graveyard to your hand.
+II — The next creature spell you cast this turn costs {1} less to cast. That creature enters with two additional +1/+1 counters on it.
+III — Exile this Saga. You get an emblem with &quot;Creatures you control have trample.&quot;</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/106.jpg" num="210">LUS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreamsun&apos;s Attendants</name>
+			<text>Whenever this creature or another Dream you control enters, tap target creature.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/107.jpg" num="19">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dive Into Dream</name>
+			<text>Exile target creature. Return it to the battlefield at the beginning of the next end step with a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/108.jpg" num="16">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fieldbound Explorer</name>
+			<text>When this creature enters, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/109.jpg" num="24">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mouse Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunglyph Eagle</name>
+			<text>Flying
+When this creature enters, choose one —
+• Tap target creature.
+• You gain 2 life.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/110.jpg" num="39">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wishborn Amalgam</name>
+			<text>Lifelink
+Whenever another Dream you control enters, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/111.jpg" num="47">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Elk Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contemplative Ascetic</name>
+			<text>Defender
+As long as you&apos;ve chosen one or more modes this turn, this creature can attack as though it doesn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/112.jpg" num="53">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Destabilize</name>
+			<text>Counter target creature spell unless its controller pays {2}.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/113.jpg" num="55">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Discover the Possibilities</name>
+			<text>Daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)
+Draw a card.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/114.jpg" num="56">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Entrancing Vision</name>
+			<text>Enchant creature
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.
+When this Aura enters, choose one —
+• Tap enchanted creature.
+• Draw a card.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/115.jpg" num="64">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Melancholy Melodicist</name>
+			<text>When this creature enters or dies, any number of target players each mill two cards.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/116.jpg" num="73">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mouse Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sapphire Imagi</name>
+			<text>Whenever you scry, until end of turn, this creature gets +1/+1 and can&apos;t be blocked.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/117.jpg" num="80">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stifle Creativity</name>
+			<text>This spell costs {1} less to cast if it targets a modal card. (A modal card has a modal effect anywhere in its text box.)
+Counter target spell.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/118.jpg" num="81">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Torrent Shaper</name>
+			<text>When this creature enters, choose one —
+• Return target creature to its owner&apos;s hand.
+• Put two +1/+1 counters on this creature.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/119.jpg" num="86">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maze of Thought</name>
+			<text>Target creature&apos;s owner puts it on the top or bottom of their library. Put a vigilance counter on up to one target creature you control.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/120.jpg" num="72">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Whimsical Drake</name>
+			<text>Whenever another Dream you control enters, this creature gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/121.jpg" num="90">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ashiok&apos;s Devoted</name>
+			<text>When this card is put into your graveyard from anywhere, you draw a card and you lose 1 life.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/122.jpg" num="95">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightmare Winds</name>
+			<text>Choose one —
+• Return target creature card from your graveyard to your hand.
+• Exile target card from a graveyard. Its owner loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/123.jpg" num="121">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Extract the Truth</name>
+			<text>Choose one —
+• Target opponent reveals their hand. You may choose a creature, enchantment, or planeswalker card from it. That player discards that card.
+• Target opponent sacrifices an enchantment.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/124.jpg" num="103">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Farwoods Marauder</name>
+			<text>This creature enters with a +1/+1 counter and a menace counter on it if a creature died this turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/125.jpg" num="104">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Resilient Ambition</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+0.
+When enchanted creature dies, return it to the battlefield tapped under its owner&apos;s control with a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/126.jpg" num="127">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Revoke Reality</name>
+			<text>This spell costs {2} more to cast if it targets a creature with mana value 4 or greater.
+Exile target creature.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/127.jpg" num="128">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wounded Pride</name>
+			<text>Enchant creature
+Enchanted creature gets -2/-2
+{B}: Destroy enchanted creature. Activate this ability only if its controller has eight or more cards in their graveyard.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/128.jpg" num="135">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Valley Tormentor</name>
+			<text>This creature has first strike as long as it&apos;s attacking.
+When this creature dies, you may put a card from your hand on the bottom of your library. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/129.jpg" num="179">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Bravado</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+1 and has &quot;Whenever this creature attacks, target creature can&apos;t block it this turn.&quot;</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/130.jpg" num="141">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Campfire Elemental</name>
+			<text>Haste
+{T}, Sacrifice this creature: Choose one —
+• Target creature gains haste until end of turn.
+• Add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/131.jpg" num="142">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daring Dreamblade</name>
+			<text>{2}{R}: Choose one. Activate only once each turn.
+• This creature gets +2/+0 until end of turn.
+• This creature deals 1 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/132.jpg" num="146">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Release Burdens</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw three cards, then put a card from your hand on the bottom of your library.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/133.jpg" num="170">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Storm Strider</name>
+			<text>When this creature enters or leaves the battlefield, exile the top card of your library. Until the end of your next turn, you may cast that card.
+Evoke {2}{R} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/134.jpg" num="175">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rule by Fear</name>
+			<text>Gain control of target creature until end of turn. Untap it. It gains haste and trample until end of turn. If there is a Nightmare card in your graveyard, that creature gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/135.jpg" num="171">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crushing Canopy</name>
+			<text>Choose one —
+• Destroy target creature with flying.
+• Destroy target enchantment.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/136.jpg" num="189">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emerald Dryad</name>
+			<text>When this creature enters, choose one —
+• Put a +1/+1 counter on target creature you control.
+• Put a reach counter on target creature you control.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/137.jpg" num="192">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enhance Abilities</name>
+			<text>Choose one —
+• Target creature you control gets +3/+3 and gains trample until end of turn.
+• Target creature you control gets +1/+1 until end of turn. Put a trample counter on it.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/138.jpg" num="193">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enlist the Ecology</name>
+			<text>Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Put two +1/+1 counters on target permanent.
+• Put two +1/+1 counters on target land you control. It becomes a 0/0 green Elemental creature. It&apos;s still a land.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/139.jpg" num="194">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Greenhouse Mosshorn</name>
+			<text>Whenever you choose one or more modes, put that many +1/+1 counters on this creature.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/140.jpg" num="201">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Rhino</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Growth Mindset</name>
+			<text>Search your library for a basic land card, put it onto the battlefield tapped, and shuffle your library. Put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/141.jpg" num="203">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Strength of Memory</name>
+			<text>Enchant creature
+At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on enchanted creature.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/142.jpg" num="219">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conjurer&apos;s Steed</name>
+			<text>Flash
+When this creature enters, up to one other target creature gets +2/+2 until end of turn.
+Evoke {G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/143.jpg" num="188">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunstone Harvester</name>
+			<text>This creature enters with a hexproof counter on it.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/144.jpg" num="221">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tara&apos;s Sentry</name>
+			<text>Defender
+This creature enters with a vigilance counter and a trample counter on it.
+When this creature dies, put its counters on target creature you control.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/145.jpg" num="260">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Table of Trinkets</name>
+			<text>When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: Choose one —
+• This artifact deals 2 damage to target player.
+• Scry 1, then draw a card.
+• Target creature can&apos;t attack or block this turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/146.jpg" num="259">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sunstone Pedestal</name>
+			<text>{T}: Add one mana of any color.
+{2}, {T}, Sacrifice this artifact: Look at target opponent&apos;s hand. Draw a card.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/147.jpg" num="258">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arcane Compass</name>
+			<text>Whenever equipped creature attacks, scry 1, then reveal the top card of your library. If it&apos;s a land card, you may put it onto the battlefield tapped.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/148.jpg" num="249">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Commune with Opportunity</name>
+			<text>Look at the top five cards of your library. You may reveal a land or modal card from among them and put it into your hand. Put the rest on the bottom of your library in any order. (A modal card has a modal effect anywhere in its text box.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/149.jpg" num="187">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Decorated Dreamblade</name>
+			<text>This creature has first strike as long as it&apos;s your turn.
+{4}{W}: Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/150.jpg" num="14">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cloudstrider Herd</name>
+			<text>Flying
+When this creature enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+Evoke {1}{W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/151.jpg" num="11">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trappings of the Mind</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
+{2}: Enchanted creature loses all abilities until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/152.jpg" num="43">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Creativity&apos;s Touch</name>
+			<text>Choose one —
+• Target creature you control gets +2/+2 until end of turn.
+• Target creature you control gains hexproof and indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/153.jpg" num="13">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beckoned Behemoth</name>
+			<text>This creature costs {1} less to cast for each creature you control with a counter on it.
+When this creature enters, put a trample counter and a ward {2} counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/154.jpg" num="229">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Watcher in the Woods</name>
+			<text>When this creature enters, you may have each player sacrifice a creature.
+At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/155.jpg" num="248">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forefront Thought</name>
+			<text>When this creature enters, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)
+Whenever another Dream you control enters, you may draw a card. Do this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/156.jpg" num="235">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Furious Wildshaper</name>
+			<text>Vigilance
+{T}: Add {R}{G}. Spend this mana only to play a modal card or activate a modal ability. (A modal card has a modal effect anywhere in its text box.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/157.jpg" num="236">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sightless Stalker</name>
+			<text>Whenever this creature attacks, defending player mills a card.
+This creature&apos;s power is equal to the greatest number of cards in a graveyard.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/158.jpg" num="243">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Bat</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hellfire Enforcer</name>
+			<text>Whenever a Nightmare you control leaves the battlefield, exile the top card of your library. Until the end of your next turn, you may play that card.
+{1}{B}{R}, Sacrifice a creature: This creature gets +1/+1 and gains menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/159.jpg" num="237">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blademaster Imagi</name>
+			<text>Haste
+Whenever you choose one or more modes, creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/160.jpg" num="230">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soulful Artist</name>
+			<text>When this creature enters, choose one. If you&apos;ve chosen one or more modes this turn, choose one or more instead.
+• Put two +1/+1 counters and a trample counter on target creature you control.
+• Return target modal card from your graveyard to your hand. (A modal card has a modal effect anywhere in its text box.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/161.jpg" num="244">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thunderclaw Apex</name>
+			<text>When this creature enters, scry 1.
+Whenever you put one or more cards on the bottom of your library, this creature deals that much damage to any target.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/162.jpg" num="246">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dynamic Duo</name>
+			<text>Lifelink
+Whenever you cast your second spell each turn, choose one —
+• Put a +1/+1 counter on target creature.
+• This creature deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/163.jpg" num="232">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rampaging Featherbear</name>
+			<text>{1}{G}: This creature fights another target creature. Activate only as a sorcery and only once each turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/164.jpg" num="215">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Farwoods Alpha</name>
+			<text>Trample
+When this creature enters, target creature you control gets +X/+X and gains trample until end of turn, where X is the number of different kinds of counters among permanents you control.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/165.jpg" num="196">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leap From the Page</name>
+			<text>When this enchantment enters, scry 2.
+After you scry, you may exile the bottom card of your library.
+{1}{U}: This enchantment becomes a copy of a permanent card exiled with it until end of turn.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/166.jpg" num="69">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Complimentary Opposites</name>
+			<text>You may cast modal spells as though they had escalate {1}{W}. If you do, you may choose any number of modes rather than the indicated number for that spell. (Pay {1}{W} for each mode chosen beyond the first.)
+Whenever a spell or ability causes you to choose from a list of modes, if you chose all the available modes, draw a card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/167.jpg" num="12">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Valorous Stance</name>
+			<text>Choose one —
+• Target creature gains indestructible until end of turn.
+• Destroy target creature with toughness 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/168.jpg" num="45">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Onslaught of Whimsy</name>
+			<text>Escalate {2}{W} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Create two 1/1 colorless Dream creature tokens.
+• Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/169.jpg" num="32">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreamcatcher&apos;s Confidence</name>
+			<text>Enchant creature
+When this Aura enters or leaves the battlefield, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)
+Enchanted creature gets +1/+1.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/170.jpg" num="18">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ashiok, Fear Made Manifest</name>
+			<text>[+1]: Target player mills three cards. Each opponent loses life equal to the number of creature cards milled this way.
+[-2]: Create an X/X black Nightmare creature token, where X is the number of creature cards in all graveyards.
+[-6]: You get an emblem with &quot;Whenever a creature card is put into your graveyard from anywhere, you may return a creature card with lesser mana value from your graveyard to the battlefield.&quot;</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/171.jpg" num="93">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ashiok</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tara Fellise</name>
+			<text>[+1]: Scry 1, then put the bottom card of your library into your hand.
+[-2]: Reveal the top card of your library. Tara deals damage equal to twice that card&apos;s mana value to target creature. Draw a card.
+[-8]: Exile the top 10 cards of your library. Until end of turn, you may cast those cards without paying their mana costs.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/172.jpg" num="245">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Tara</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aki, Wayward Son</name>
+			<text>Whenever you choose one or more modes, put that many loyalty counters on Aki.
+[0]: Daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)
+[-2]: Exile another target nonland permanent. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
+[-3]: Until end of turn, target creature gets +X/+X and gains flying, trample, and haste, where X is the number of loyalty counters on Aki.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/173.jpg" num="225">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Aki</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Active Imagination</name>
+			<text>Create a token that&apos;s a copy of target creature you control or target creature card in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/174.jpg" num="49">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shoot for the Stars</name>
+			<text>Choose one —
+• Shoot for the Stars deals 6 damage to target creature.
+• Shoot for the Stars deals 3 damage to target player. Target creature you control gets +1/+0 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/175.jpg" num="172">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beyondscape</name>
+			<text>{T}: Add {C}.
+{3}, {T}, Sacrifice this land: Search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/176.jpg" num="261">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Farseer Fox</name>
+			<text>Vigilance
+Whenever you cast your second spell each turn, scry 1.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/177.jpg" num="22">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Entrancing Aspirant</name>
+			<text>When you cast your second spell each turn, if this creature doesn&apos;t have a lifelink counter on it, put a lifelink counter on it. Otherwise, this creature deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/178.jpg" num="102">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vas, Renegade Nightmare</name>
+			<text>Whenever one or more creatures you control attack, choose up to that many —
+• Create a 1/1 colorless Dream creature token.
+• Discard a card. If you do, draw a card.
+• Put a +1/+1 counter on target attacking creature.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/179.jpg" num="247">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nightmare Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merciless Resolve</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or land.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/180.jpg" num="119">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beachside Companions</name>
+			<text>{2}{W}, {T}: Look at the top four cards of your library. You may reveal a Dream card or a creature card with mana value 3 or less from among them, reveal it, and put it into your hand.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/181.jpg" num="8">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Otter Shark</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imaginative Rascals</name>
+			<text>Flying
+When this creature enters, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/182.jpg" num="29">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fall From Grace</name>
+			<text>Exile target creature. Its controller creates a 1/1 white Coward creature token with &quot;This creature can&apos;t attack.&quot;</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/183.jpg" num="21">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hopeborn</name>
+			<text>Flash
+Whenever this creature or another Dream you control enters, choose one —
+• Put a +1/+1 counter on this creature.
+• Target creature you control gets +1/+1 and gains vigilance until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/184.jpg" num="27">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tangleneck Stork</name>
+			<text>Double strike
+This creature gets +1/+1 for each spell you&apos;ve cast this turn past the first.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/185.jpg" num="41">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Bird Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valor</name>
+			<text>First strike
+As long as this card is in your graveyard and you control a Plains, creatures you control have first strike.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/186.jpg" num="44">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clouded Leopard</name>
+			<text>Flying
+When this creature enters, mill three cards. You may put a noncreature card from among the milled cards into your hand. If you don&apos;t, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/187.jpg" num="51">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamscape Guardian</name>
+			<text>Vigilance
+Other Dreams you control get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/188.jpg" num="60">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Cat Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diversion Adept</name>
+			<text>Flying
+Imagination — Modal spells and abilities you control have &quot;Target creature gets -4/-0 until end of turn&quot; in addition to their other modes.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/189.jpg" num="58">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Going Swimmingly</name>
+			<text>Enchant creature
+Enchanted creature has &quot;Whenever this creature deals combat damage to a player, daydream.&quot; (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/190.jpg" num="66">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Isolation</name>
+			<text>Ward {2}
+As long as this card is in your graveyard and you control an Island, creatures you control have ward {2}.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/191.jpg" num="68">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rastian&apos;s Teachings</name>
+			<text>Choose target creature. For each kind of counter among other creatures you control, put a counter of that kind on that creature. That creature can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/192.jpg" num="79">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Supreme Will</name>
+			<text>Choose one —
+• Counter target spell unless its controller pays {3}.
+• Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/193.jpg" num="83">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wisp of Memory</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature and a ward {2} counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/194.jpg" num="92">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ashiok&apos;s Ascension</name>
+			<text>Mill three cards, then choose one —
+• Return target creature card from your graveyard to the battlefield.
+• Create an X/X black Nightmare creature token, where X is the number of creature cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/195.jpg" num="94">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emotionless Dreamblade</name>
+			<text>Menace
+Whenever you cast your second spell each turn, you may have this creature get +2/+0 and gain indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/196.jpg" num="101">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Griefborn</name>
+			<text>Flash
+Whenever this creature enters or another Nightmare you control leaves the battlefield, choose one —
+• Any number of target players lose 1 life.
+• Target creature you control gets +1/+1 and gains lifelink until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/197.jpg" num="108">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hardship</name>
+			<text>Menace
+As long as this card is in your graveyard and you control a Swamp, creatures you control have menace.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/198.jpg" num="109">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mortality Connoisseur</name>
+			<text>Lifelink
+Imagination — Modal spells and abilities you control have &quot;Target opponent loses 2 life and you gain 2 life&quot; in addition to their other modes.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/199.jpg" num="120">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Superiority Complex</name>
+			<text>Enchanted creature has &quot;Whenever another creature dies, put a +1/+1 counter on this creature.&quot;
+{B}{B}, Sacrifice a creature: Enchanted creature gains indestructible until end of turn. Tap it.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/200.jpg" num="131">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anger</name>
+			<text>Haste
+As long as this card is in your graveyard and you control a Mountain, creatures you control have haste.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/201.jpg" num="137">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Analyst</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you choose one or more modes, you may exile the top card of your library. If you do, you may play that card this turn. Do this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/202.jpg" num="140">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mindscorcher</name>
+			<text>When this creature enters, it deals X damage to target creature, where X is the amount of mana spent to cast it.
+Evoke {X}{R} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/203.jpg" num="164">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightmarish Intimidator</name>
+			<text>Whenever you sacrifice a creature, put a +1/+1 counter on this creature.
+Whenever this creature attacks, target creature with power less than or equal to its power can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/204.jpg" num="166">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overwhelming Odds</name>
+			<text>Escalate {1}{R} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target creature you control gets +2/+2 for each creature blocking it and gains trample until end of turn.
+• Creatures you control gain first strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/205.jpg" num="167">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Squeaking Tyrant</name>
+			<text>Flying
+{R}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/206.jpg" num="174">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Mouse</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sundering Ritual</name>
+			<text>Choose one —
+• Destroy target land.
+• Add {R}{R}{R}{R}{R}</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/207.jpg" num="176">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aegis of Resolve</name>
+			<text>Enchant creature
+When this Aura enters, put a +1/+1 counter on enchanted creature.
+If enchanted creature would be dealt damage while it has a counter on it, instead prevent that damage and remove a counter from it.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/208.jpg" num="181">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brawn</name>
+			<text>Trample
+As long as this card is in your graveyard and you control a Forest, creatures you control have trample.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/209.jpg" num="185">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Farwoods Champion</name>
+			<text>Reach
+When this creature enters, you may choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/210.jpg" num="197">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greenhouse&apos;s Encouragement</name>
+			<text>Choose two. You may choose the same mode more than once —
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Create a 1/2 green Elemental creature token with vigilance.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/211.jpg" num="202">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kindly Caretaker</name>
+			<text>Whenever you choose one or more modes, put a +1/+1 counter on up to one target creature.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/212.jpg" num="206">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunstone Wielder</name>
+			<text>When this creature enters, put a hexproof counter on target creature you control.
+When this creature leaves the battlefield, remove a hexproof counter from a creature you control.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/213.jpg" num="222">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crack the Sun</name>
+			<text>Exile cards from the top of your library until you exile a modal card. Until end of turn, you may play it. Put the rest on the bottom of your library in a random order.
+Until end of turn, rather than choose the indicated number of modes for modal spells and abilities you control, you may choose any number of modes instead. If you do, you can&apos;t choose the same mode more than once.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/214.jpg" num="144">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Quill of Whims</name>
+			<text>Whenever you choose one or more modes, put that many charge counters on this Equipment.
+Equipped creature gets +X/+X and has vigilance, where X is the number of charge counters on this Equipment.
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/215.jpg" num="34">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Let Imagination Soar</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Choose one that hasn&apos;t been chosen —
+• Return target creature to its owner&apos;s hand.
+• Put a flying counter on target creature.
+• Until end of turn, whenever a creature you control deals combat damage to a player, draw a card.
+​
+​</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/216.jpg" num="70">LUS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Take Fear&apos;s Oath</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Choose one that hasn&apos;t been chosen —
+• Each player sacrifices a creature.
+• Mill four cards.
+• Create an X/X black Nightmare creature token, where X is the number of creature cards in your graveyard.
+​
+​</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/217.jpg" num="132">LUS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chase Your Dreams</name>
+			<text>When this enchantment enters, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)
+At the beginning of combat on your turn, you may reveal the top card of your library. If you do, target creature you control gets +X/+0 until end of turn, where X is that card&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/218.jpg" num="143">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Find Wonder Everywhere</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Choose one that hasn&apos;t been chosen —
+• You may play an additional land this turn.
+• Create a 1/2 green Elemental creature token with vigilance.
+• You may pay {X}. If you do, put X +1/+1 counters on target creature.
+​
+​</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/219.jpg" num="199">LUS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Leaping Imagi</name>
+			<text>Flying
+Imagination — Modal spells and abilities you control have &quot;Target creature gets +1/+0 and gains flying until end of turn&quot; in addition to their other modes.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/220.jpg" num="30">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wrack the Brain</name>
+			<text>Enchant player
+At the beginning of enchanted player&apos;s upkeep, that player mills two cards. Choose a nonland card milled this way. Enchanted player loses life equal to that card&apos;s mana value and returns it from their graveyard to their hand.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/221.jpg" num="136">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Desolate Crossroads</name>
+			<text>This land enters tapped.
+{T}: Add {B}
+{1}{B}, {T}, Sacrifice this land: Choose one —
+• Target opponent loses 2 life.
+• Exile target card from a graveyard.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/222.jpg" num="262">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fleeting Cloudscape</name>
+			<text>This land enters tapped.
+{T}: Add {W}.
+{1}{W}, {T}, Sacrifice this land: Choose one —
+• You gain 3 life.
+• You gain hexproof until end of turn.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/223.jpg" num="265">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sunset Vista</name>
+			<text>This land enters tapped.
+{T}: Add {G}.
+{1}{G}, {T}, Sacrifice this land: Choose one —
+• Put a +1/+1 counter on target creature.
+• The next spell you cast this turn can&apos;t be countered.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/224.jpg" num="270">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thawing Underpass</name>
+			<text>This land enters tapped.
+{T}: Add {U}
+{1}{U}, {T}, Sacrifice this land: Choose one —
+• Target player mills two cards.
+• Tap or untap target permanent.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/225.jpg" num="272">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Unstable Terrain</name>
+			<text>This land enters tapped.
+{T}: Add {R}.
+{1}{R}, {T}, Sacrifice this land: Choose one —
+• This land deals 1 damage to any target.
+• Discard a card. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/226.jpg" num="273">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gilded Automaton</name>
+			<text>This creature enters with four +1/+1 counters on it.
+Remove a +1/+1 counter from this creature: Choose one. Activate only as a sorcery and only once each turn.
+• Create a Treasure token.
+• Put a +1/+1 counter on another target creature you control.</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/227.jpg" num="254">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunstone Amulet</name>
+			<text>Equipped creature gets +0/+2 and has ward {2} and &quot;{1}, {T}, Unattach Sunstone Amulet Exile target card from a graveyard.&quot;
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://modernterrain.github.io/sets/LUS-files/img/228.jpg" num="257">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Terramorphic Expanse</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/229.jpg" num="271">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Aspect of the Recruiter</name>
+			<text>Search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/230.jpg" num="7">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aspect of the Mage</name>
+			<text>Until end of turn, you may cast target instant or sorcery card from your graveyard. When you do, exile it as it resolves.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/231.jpg" num="50">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aspect of the Wurm</name>
+			<text>Until end of turn, whenever a creature an opponent controls dies, that player loses 2 life.
+Creatures your opponents control get -2/-2 until end of turn.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/232.jpg" num="97">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aspect of the Pyromancer</name>
+			<text>Discard two cards, then draw two cards. For each nonland card discarded this way, create a 1/1 colorless Dream creature token.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/233.jpg" num="138">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aspect of the Behemoth</name>
+			<text>Creatures you control get +X/+X and gain trample until end of turn, where X is the number of creatures you control.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/234.jpg" num="182">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Amara&apos;s Mastery</name>
+			<text>Escalate {W} (Pay this cost for each mode chosen beyond the first.)
+Choose any number. You may choose the same mode more than once.
+• Target creature you control gets +1/+1 and gains first strike until end of turn.
+• You gain 3 life.
+• Create a 1/1 colorless Dream creature token.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/235.jpg" num="6">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ophys&apos; Mastery</name>
+			<text>Escalate {U} (Pay this cost for each mode chosen beyond the first.)
+Choose any number. You may choose the same mode more than once —
+• Draw a card.
+• Tap target creature and put a stun counter on it.
+• Target creature you control gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/236.jpg" num="78">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ilias&apos;s Mastery</name>
+			<text>Escalate {B} (Pay this cost for each mode chosen beyond the first.)
+Choose any number. You may choose the same mode more than once —
+• Target creature gets -2/-2 until end of turn.
+• Return target creature with mana value 2 or less from your graveyard to the battlefield tapped.
+• Target player discards a card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/237.jpg" num="114">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Maraye&apos;s Mastery</name>
+			<text>Escalate {R} (Pay this cost for each mode chosen beyond the first.)
+Choose any number. You may choose the same mode more than once —
+• Target creature can&apos;t block this turn.
+• Maraye&apos;s Mastery deals 1 damage to target creature and 1 damage to its controller.
+• Target creature gets +2/+0 and gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/238.jpg" num="161">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Korvik&apos;s Mastery</name>
+			<text>Escalate {G} (Pay this cost for each mode chosen beyond the first.)
+Choose any number. You may choose the same mode more than once —
+• Put a +1/+1 counter on target creature. Untap it.
+• Search your library for a basic land card, reveal it, then shuffle and put that card on top.
+• Target creature gains hexproof until end of turn.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/239.jpg" num="208">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cloudbreather</name>
+			<text>Flying, lifelink
+Whenever this creature attacks, choose one —
+• This creature gains protection from the color of your choice until end of turn.
+• Other attacking creatures get +0/+1 until end of turn. Untap them.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/240.jpg" num="10">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ori, Collective Aspiration</name>
+			<text>Ori&apos;s power and toughness are each equal to the number of creatures you control.
+Imagination — Modal spells and abilities you control have &quot;Daydream.&quot; in addition to their other modes. You can&apos;t choose this mode while daydreaming. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token. )</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/241.jpg" num="33">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dream</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Selective Memory</name>
+			<text>Each player chooses an artifact, creature, enchantment, and planeswalker they control, and up to two cards in their graveyard. Exile each nonland permanent and card in a graveyard not chosen this way.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/242.jpg" num="36">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mental Breakdown</name>
+			<text>Tap target creature and put two stun counters on it. Its controller mills half their library, rounded up.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/243.jpg" num="75">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Subliminal Messaging</name>
+			<text>When this enchantment enters, secretly choose up to three creatures.
+Whenever a creature you chose attacks, you may reveal that you chose it if you haven&apos;t already. If you do, choose one —
+• Return that creature to its owner&apos;s hand.
+• Remove it from combat and put a stun counter on it. Its controller mills two cards.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/244.jpg" num="82">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ashiok&apos;s Machinations</name>
+			<text>Whenever a creature card is put into your graveyard from anywhere, put a terror counter on this enchantment.
+At the beginning of your upkeep, you may sacrifice a nontoken creature. If you do, create an X/X black Nightmare creature token, where X is the number of terror counters on this enchantment.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/245.jpg" num="96">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Farwoods Scrounger</name>
+			<text>Whenever a creature you control dies, if it had counters on it, you may put those counters on this creature. 
+Remove a counter that&apos;s not a +1/+1 counter from this creature: Put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/246.jpg" num="198">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunstone Elemental</name>
+			<text>Trample
+Protection from instants, sorceries, enchantments, Bards, Clerics, Druids, Mystics, Shamans, Sorcerers, Spellshapers, Warlocks, and Wizards. (This creature can&apos;t be blocked, targeted or dealt damage by instants, sorceries, enchantments, Bards, Clerics, Druids, Mystics, Shamans, Sorcerers, Spellshapers, Warlocks, and Wizards.)</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/247.jpg" num="220">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wildest Dreams</name>
+			<text>Return X target cards from your graveyard to your hand. Exile this card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/248.jpg" num="223">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vision of Grandeur</name>
+			<text>Whenever this creature or another Dream you control enters, you may pay {U}. If you do, return target creature to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/249.jpg" num="88">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aolis, Gilded Master</name>
+			<text>First strike
+Whenever you cast your second spell each turn, create a Treasure token.
+At the beginning of your upkeep, you may sacrifice an artifact. If you do, spells you cast this turn cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/250.jpg" num="227">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ashen, Farwoods Warden</name>
+			<text>When Ashen enters, mill X cards.
+At the beginning of your end step, you may exile X cards from your graveyard, where X is the mana value of target creature card in a graveyard that was put there from anywhere this turn. If you do, put that card onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/251.jpg" num="228">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>XBG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rastian, Dreamblade Captain</name>
+			<text>When Rastian enters, put a +1/+1 counter on target creature.
+Whenever one or more counters are placed on a creature you control for the first time each turn, you may put the same number and kind of counters on another target creature you control.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/252.jpg" num="242">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Floria, Unswaying Optimist</name>
+			<text>You may look at the top card of your library at any time.
+You may play modal cards from the top of your library. (A modal card has a modal effect anywhere in its text box.)
+Whenever you choose one or more modes, you gain that much life.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/253.jpg" num="234">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quoro, the Worldwish</name>
+			<text>Flying, trample
+At the beginning of your end step, distribute X +1/+1 counters among any number of target creatures you control, where X is the number of modes you chose this turn.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/254.jpg" num="241">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dream Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conscripted Concience</name>
+			<text>This spell costs {2} less to cast for each mode you&apos;ve chosen this turn.
+When this creature dies, daydream. (Choose one — Scry 2; or create a 1/1 colorless Dream creature token.)</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/255.jpg" num="251">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Possibility Capsule</name>
+			<text>{3}, {T}: Copy target modal spell or ability you control. You must choose new modes for the copy, and can&apos;t choose any modes you chose for the original spell or ability.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/256.jpg" num="256">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Amara, Lucid of Order</name>
+			<text>Ward—Amara&apos;s controller creates two 1/1 white Warrior creature tokens with lifelink.
+Flying
+Imagination — Modal spells and abilities you control have &quot;Exile target creature until Amara leaves the battlefield.&quot; in addition to their other modes.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/257.jpg" num="5">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ophys, Lucid of Understanding</name>
+			<text>Ward—Ophys&apos;s controller draws two cards.
+Vigilance
+Imagination — Modal spells and abilities you control have &quot;Return target instant or sorcery card from your graveyard to your hand.&quot; in addition to their other modes.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/258.jpg" num="77">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ilias, Lucid of Ambition</name>
+			<text>Ward—Ilias&apos;s controller may return a creature card from their graveyard to their hand.
+Deathtouch
+Imagination — Modal spells and abilities you control have &quot;Target player loses 3 life and you gain 3 life.&quot; in addition to their other modes.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/259.jpg" num="113">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maraye, Lucid of Passion</name>
+			<text>Ward—Maraye&apos;s controller deals 3 damage to a target of their choice.
+Haste
+Imagination — Modal spells and abilities you control have &quot;Put your hand on the bottom of your library in a random order, then draw three cards.&quot; in addition to their other modes.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/260.jpg" num="160">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Korvik, Lucid of Strength</name>
+			<text>Ward—Korvik&apos;s controller distributes three +1/+1 counters among up to three creatures they control.
+Trample
+Imagination — Modal spells and abilities you control have &quot;Target creature you control other than Korvik deals damage equal to its power to target creature you don&apos;t control.&quot; in addition to their other modes.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/261.jpg" num="207">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Creativity</name>
+			<text>When Creativity enters, look at the top seven cards of your library. Put one of them into your graveyard, one of them into your hand, and the rest on the bottom of your library in a random order.
+At the beginning of your end step, create a 1/1 Incarnation creature token named Soul that is all colors for each Incarnation in your graveyard.
+Evoke {5}</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/262.jpg" num="231">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valorbound Phoenix</name>
+			<text>Flying, haste
+Imagination — As long as this card is in your graveyard, modal spells and abilities you control have &quot;Return Valorbound Phoenix from your graveyard to the battlefield.&quot; in addition to their other modes.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/263.jpg" num="180">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Distinctive Landmark</name>
+			<text>Indestructible
+This land enters tapped.
+{T}: Add one mana of any type that a land you control could produce.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/264.jpg" num="263">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Horizon Canopy</name>
+			<text>{T}, Pay 1 life: Add {W} or {G}.
+{1}, {T}, Sacrifice this land: Draw a card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/265.jpg" num="266">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dusklit Spire</name>
+			<text>{T}, Pay 1 life: Add {B} or {R}.
+{1}, {T}, Sacrifice this land: Draw a card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/266.jpg" num="264">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Seaview Cliffs</name>
+			<text>{T}, Pay 1 life: Add {W} or {U}.
+{1}, {T}, Sacrifice this land: Draw a card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/267.jpg" num="269">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rugged Valley</name>
+			<text>{T}, Pay 1 life: Add {R} or {G}.
+{1}, {T}, Sacrifice this land: Draw a card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/268.jpg" num="268">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Obsidian Falls</name>
+			<text>{T}, Pay 1 life: Add {U} or {B}.
+{1}, {T}, Sacrifice this land: Draw a card.</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/269.jpg" num="267">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Responsibility</name>
+			<text>When this creature enters, put an indestructible counter on target creature. That creature gets -4/-4 until end of turn.
+Evoke {4} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
+			<set rarity="rare" picurl="https://modernterrain.github.io/sets/LUS-files/img/270.jpg" num="3">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dream Nightmare Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meet the Dawn</name>
+			<text>At the beginning of your upkeep, scry 2. Then, you may exile the top and bottom card of your library, a card from your graveyard, a card from your hand, and a permanent you control. If five nonland cards with the same mana value were exiled this way, you win the game.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/271.jpg" num="240">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blank Slate</name>
+			<text>Escalate {1}. You can&apos;t pay more than one mana of the same color this way.
+Create a 4/4 colorless Avatar creature token, then choose any number —
+• Put a flying counter and a vigilance counter on it.
+• It gains &quot;When this creature deals combat damage to a player, draw a card.&quot;
+• Put a menace counter and a lifelink counter on it.
+• It gets +2/+0 and gains haste until end of turn.
+• Put a trample counter and a +1/+1 counter on it.</text>
+			<set rarity="mythic" picurl="https://modernterrain.github.io/sets/LUS-files/img/272.jpg" num="1">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Griffin LUS</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/273.jpg" num="8">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Warrior LUS</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/274.jpg" num="12">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Nightmare LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/275.jpg" num="15">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>X/X</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Beast LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/276.jpg" num="16">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elemental LUS</name>
+			<text>Vigilance</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/277.jpg" num="17">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Soul LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/278.jpg" num="21">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dream LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/279.jpg" num="3">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dream</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure LUS</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/280.jpg" num="22">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Avatar LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/281.jpg" num="1">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Coward LUS</name>
+			<text>This creature can&apos;t attack.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/282.jpg" num="7">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Coward</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Copy LUS</name>
+			<text>This token can be used to represent a copy of something else.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/283.jpg" num="2">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fish Nightmare LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/284.jpg" num="13">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Fish Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Warren Warleader LUS</name>
+			<text>Whenever you attack, choose one —
+• Create a 1/1 white Rabbit creature token that&apos;s tapped and attacking.
+• Attacking creatures you control get +1/+1 until end of turn.
+(This token&apos;s mana cost is {2}{W}{W}.)</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/285.jpg" num="11">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Cat Beast LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/286.jpg" num="6">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bird LUS</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/287.jpg" num="5">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Illusion LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/288.jpg" num="14">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Wicked Role LUS</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1. When this Aura is put into a graveyard, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/289.jpg" num="4">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Role</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Citizen LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/290.jpg" num="19">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Rhino Warrior LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/291.jpg" num="18">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rhino Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Citizen LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/292.jpg" num="20">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human Soldier LUS</name>
+			<text></text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/293.jpg" num="9">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Knight LUS</name>
+			<text>Vigilance</text>
+			<set rarity="common" picurl="https://modernterrain.github.io/sets/LUS-files/img/294.jpg" num="10">LUS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
