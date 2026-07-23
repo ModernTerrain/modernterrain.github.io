@@ -1,4 +1,154 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Aetherveil Fox added.
+Emotion Analyst added.
+
+Farseer Fox removed.
+Brilliant Analyst removed.
+
+Dozing Mount
+rules_text: Whenever you choose one or more modes, you gain 1 life and scry 1. => Whenever you choose one or more modes, another target creature you control gets +1/+0 and gains lifelink until end of turn.
+
+Stand Stalwart
+
+Veiled Watcher
+
+Thought Hopper
+
+Wisher of Wings
+
+Flight of Skywhales
+
+Dreamscape's Boon
+
+Ravenous Pigbat
+
+Foolish Mistake
+rules_text: This spell costs {1} less to cast if a creature died this turn.
+Target creature gets -4/-4 until end of turn. => This spell costs {1} less to cast if a creature died this turn.
+Target creature gets -4/-4 until end of turn. Its controller loses 2 life.
+
+Shadow of the Valley
+
+Sunwisp Knight
+
+Lightning Bottler
+
+Mindblast Mage
+
+Eclipse Apparition
+
+Creative Partnership
+
+Surge of Confidence
+
+Harness Flame
+
+Grandgrowth Keeper
+
+Branchback Bear
+
+Fantastical Ferocity
+
+Harness Nature
+
+Artificial Dreamer
+
+Molten Dreamhunter
+
+Druid's Hand
+
+Descend into Madness
+
+Faceless Forging
+cost: {2}{R} => {1}{R}{R}
+
+Intrusive Thought
+
+Cloudsea Traveler
+
+Mavi, Living Memory
+
+Crowded Mind
+cost: {4}{U}{U} => {3}{U}{U}
+rules_text: At the beginning of your upkeep, if it isn't an extra turn, take an extra turn after this one. Otherwise, reveal the top card of your library. Play that card without paying its mana cost if able. You can't cast other spells, play other lands, or activate abilities this turn.
+At the beginning of combat on your turn, if it's an extra turn, choose a creature you control at random. That creature can't be blocked this turn and must attack this turn if able. Other creatures you control can't attack this turn. => At the beginning of your first main phase, choose a card in your hand at random. Play that card without paying its mana cost if able. If you don't play the card this way, discard it.
+At the beginning of combat on your turn, choose a creature you control at random. This turn, that creature attacks if able and can't be blocked. If that creature doesn't attack this turn, tap it.
+
+Contemplative Ascetic
+
+Destabilize
+
+Torrent Shaper
+
+Farwoods Marauder
+
+Valley Tormentor
+rules_text: This creature has first strike as long as it's attacking.
+When this creature dies, you may put a card from your hand on the bottom of your library. If you do, draw a card. => This creature has first strike as long as it's your turn.
+When this creature dies, you may put a card from your hand on the bottom of your library. If you do, draw a card.
+
+Emerald Dryad
+
+Sunstone Harvester
+
+Sunstone Pedestal
+
+Decorated Dreamblade
+
+Trappings of the Mind
+
+Furious Wildshaper
+
+Thunderclaw Apex
+pt: 3/2 => 4/2
+
+Onslaught of Whimsy
+
+Hopeborn
+
+Tangleneck Stork
+rules_text: Double strike
+This creature gets +1/+1 for each spell you've cast this turn past the first. => Double strike
+This creature gets +1/+1 for each spell you've cast this turn.
+
+Emotionless Dreamblade
+
+Griefborn
+
+Hardship
+
+Mortality Connoisseur
+rules_text: Lifelink
+[i]Imagination[/i] — Modal spells and abilities you control have “Target opponent loses 2 life and you gain 2 life” in addition to their other modes. => Lifelink
+[i]Imagination[/i] — Modal spells and abilities you control have “Return target creature card with mana value 3 or less from your graveyard to your hand.” in addition to their other modes.
+
+Mindscorcher
+
+Greenhouse's Encouragement
+
+Sunstone Amulet
+rules_text: Equipped creature gets +0/+2 and has ward {2} and “{1}, {T}, Unattach Sunstone Amulet Exile target card from a graveyard.”
+Equip {2} => Equipped creature gets +0/+2 and has ward {2} and “{1}, {T}, Unattach Sunstone Amulet: Exile target card from a graveyard.”
+Equip {2}
+
+Ori, Collective Aspiration
+rules_text: Ori's power and toughness are each equal to the number of creatures you control.
+[i]Imagination[/i] — Modal spells and abilities you control have “Daydream.” in addition to their other modes. You can't choose this mode while daydreaming. [i](Choose one — Scry 2; or create a 1/1 colorless Dream creature token. )[/i] => Ori's power and toughness are each equal to the number of creatures you control.
+[i]Imagination[/i] — Modal spells and abilities you control have “Daydream.” in addition to their other modes. You can't choose this mode while daydreaming. [i](To daydream, choose one — Scry 2; or create a 1/1 colorless Dream creature token. )[/i]
+
+Aolis, Gilded Master
+
+Maraye, Lucid of Passion
+rules_text: Ward—Maraye's controller deals 3 damage to a target of their choice.
+Haste
+[i]Imagination[/i] — Modal spells and abilities you control have “Put your hand on the bottom of your library in a random order, then draw three cards.” in addition to their other modes. => Ward—Maraye's controller deals 3 damage to a creature or player of their choice.
+Haste
+[i]Imagination[/i] — Modal spells and abilities you control have “Put your hand on the bottom of your library in a random order, then draw three cards.” in addition to their other modes.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

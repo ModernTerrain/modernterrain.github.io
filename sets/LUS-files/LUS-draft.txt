@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/1.jpg"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Rabbit Beast",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/3.jpg"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Nightmare",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/31.jpg"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/34.jpg"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Ranger",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/48.jpg"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/73.jpg"
 			}
@@ -813,7 +813,7 @@
 		{
 			"name": "Faceless Forging",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "150",
 			"image_uris": {
@@ -1003,7 +1003,7 @@
 		{
 			"name": "Crowded Mind",
 			"rarity": "mythic",
-			"mana_cost": "{4}{U}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "54",
 			"image_uris": {
@@ -1075,7 +1075,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Dream",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/107.jpg"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/108.jpg"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/130.jpg"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/131.jpg"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/132.jpg"
 			}
@@ -1505,7 +1505,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/150.jpg"
 			}
@@ -1515,7 +1515,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Dream Horse",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/151.jpg"
 			}
@@ -1535,7 +1535,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/153.jpg"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/167.jpg"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/170.jpg"
 			}
@@ -1771,11 +1771,11 @@
 			}
 		},
 		{
-			"name": "Farseer Fox",
+			"name": "Aetherveil Fox",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Dream Fox",
-			"collector_number": "22",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/177.jpg"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Dream Otter Shark",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/181.jpg"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/183.jpg"
 			}
@@ -2021,11 +2021,11 @@
 			}
 		},
 		{
-			"name": "Brilliant Analyst",
+			"name": "Emotion Analyst",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "140",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/202.jpg"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/214.jpg"
 			}
@@ -2185,7 +2185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/218.jpg"
 			}
@@ -2305,7 +2305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/230.jpg"
 			}
@@ -2355,7 +2355,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/235.jpg"
 			}
@@ -2405,7 +2405,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Creature — Whale",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/240.jpg"
 			}
@@ -2575,7 +2575,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Elder Human Wizard",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://modernterrain.github.io/sets/LUS-files/img/257.jpg"
 			}
@@ -3100,7 +3100,7 @@
 	5 Mortality Connoisseur
 	5 Superiority Complex
 	5 Anger
-	5 Brilliant Analyst
+	5 Emotion Analyst
 	5 Mindscorcher
 	5 Nightmarish Intimidator
 	5 Overwhelming Odds
@@ -3224,7 +3224,7 @@
 	5 Farwoods Alpha
 	5 Dreamcatcher's Confidence
 	5 Shoot for the Stars
-	5 Farseer Fox
+	5 Aetherveil Fox
 	5 Entrancing Aspirant
 	5 Merciless Resolve
 	5 Terramorphic Expanse
