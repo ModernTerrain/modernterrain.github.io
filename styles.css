@@ -1,0 +1,123 @@
+html{
+    font-size: 20px;
+    background-color: gray;
+}
+body{
+    margin-left: 7.5vw;
+    margin-right: 7.5vw;
+}
+header{
+    height: 3vw;
+    font-size: 1.1vw;
+    text-align:center;
+}
+
+nav {
+    height: 2.5vw;
+    display: flex;
+    background-color:darkslategray;
+  }
+  
+  nav ul {
+    padding: 0;
+    list-style-type: none;
+    flex: 2;
+    display: flex;
+  }
+  
+  nav li {
+    display: inline;
+    text-align: center;
+    flex: 1;
+  }
+  
+  nav a {
+    display: inline-block;
+    font-size: 1vw;
+    text-transform: uppercase;
+    color: white;
+  }
+
+.secheader{
+    text-transform: uppercase;
+    text-align:center;
+    font-size: 1.75vw;
+}
+
+div{
+    background-color:white;
+}
+p{
+    padding:.5vw;
+}
+.sidebar {
+    background-color:white;
+    padding: 10px;
+    text-align: center;
+}
+.fullhr{
+    height:60px;
+}
+.hrandhalf{
+    height:90px;
+}
+.fullhrclass{
+    height:50px;
+    background-color:gray;
+}
+.twohrclass{
+    height:120px;
+    background-color:gray;
+}
+.fullhrclub{
+    height:60px;
+    background-color:gray;
+}
+.hrandqtrclass{
+    height:75px;
+    background-color:gray;
+}
+.fullevening{
+    height:300px;
+    background-color:gray;
+}
+.column{
+    width:12.5%;
+}
+
+.tenminpadding{
+    height:10px;
+}
+.halfhourpadding{
+    height:30px;
+}
+.qtrhrpadding{
+    height:15px;
+}
+table, th, td{
+    border:1px solid;
+    font-size:small;
+}
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ID Identifiers */
+
+#Paragraphs{
+    font-size: 1vw;
+}
+
+#meImg {
+    float:left;
+    width:17vw;
+    border-style: inset;
+    border-width: .7vw;
+}
